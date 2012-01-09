@@ -1,0 +1,41 @@
+# 8-битный двоичный реверсивный счетчик 
+add wave sim:/binary_up_down_counter_w_pload/*
+force -freeze sim:/binary_up_down_counter_w_pload/vdd 1 0
+force -freeze sim:/binary_up_down_counter_w_pload/vss 0 0
+force -freeze sim:/binary_up_down_counter_w_pload/load 0 0
+force -freeze sim:/binary_up_down_counter_w_pload/down_count 0 0
+force -freeze sim:/binary_up_down_counter_w_pload/clock 0 0, 1 {500 ps} -r 1000
+force -freeze sim:/binary_up_down_counter_w_pload/count 0 0
+force -freeze sim:/binary_up_down_counter_w_pload/clear 0 0
+force -freeze sim:/binary_up_down_counter_w_pload/count 1 0
+run
+force -freeze sim:/binary_up_down_counter_w_pload/clear 1 0
+run
+run
+run
+run
+run
+run
+run
+
+# 8-битный двоичный счетчик 
+add wave sim:/binary_up_counter/*
+force -freeze sim:/binary_up_counter/vdd 1 0
+force -freeze sim:/binary_up_counter/vss 0 0
+force -freeze sim:/binary_up_counter/clear 0 0
+force -freeze sim:/binary_up_counter/clock 0 0, 1 {250 ps} -r 500
+force -freeze sim:/binary_up_counter/count 0 0
+run
+force -freeze sim:/binary_up_counter/count 1 0
+run
+run
+run
+run
+force -freeze sim:/binary_up_counter/clear 1 0
+run
+run
+run
+run
+run
+run
+run

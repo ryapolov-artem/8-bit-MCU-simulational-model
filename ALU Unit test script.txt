@@ -1,0 +1,76 @@
+# Проверка работы АЛУ на различных наборах входных данных
+add wave sim:/alu_unit/*
+force -freeze sim:/alu_unit/vdd 1 0
+force -freeze sim:/alu_unit/vss 0 0
+force -freeze sim:/alu_unit/operation_select(0) 0 0, 1 {500 ps} -r 1000
+force -freeze sim:/alu_unit/operation_select(1) 0 0, 1 {1000 ps} -r 2000
+force -freeze sim:/alu_unit/operation_select(2) 0 0, 1 {2000 ps} -r 4000
+force -freeze sim:/alu_unit/a_word 10101010 0
+force -freeze sim:/alu_unit/b_word 01010101 0
+run
+run
+run
+run
+force -freeze sim:/alu_unit/a_word 11111111 0
+force -freeze sim:/alu_unit/b_word 11111111 0
+run
+run
+run
+run
+force -freeze sim:/alu_unit/b_word 00000000 0
+run
+run
+run
+run
+force -freeze sim:/alu_unit/a_word 00000000 0
+force -freeze sim:/alu_unit/b_word 11111111 0
+run
+run
+run
+run
+
+
+
+# Тестовый скрипт проверки блока расширения логических функций
+add wave sim:/alu_logic_extender/*
+force -freeze sim:/alu_logic_extender/in_a 0 0, 1 {4000 ps} -r 8000
+force -freeze sim:/alu_logic_extender/in_b 0 0, 1 {8000 ps} -r 16000
+force -freeze sim:/alu_logic_extender/vdd 1 0
+force -freeze sim:/alu_logic_extender/vss 0 0
+force -freeze sim:/alu_logic_extender/operation_select(0) 0 0, 1 {500 ps} -r 1000
+force -freeze sim:/alu_logic_extender/operation_select(1) 0 0, 1 {1000 ps} -r 2000
+force -freeze sim:/alu_logic_extender/operation_select(2) 0 0, 1 {2000 ps} -r 4000
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+
+
+# Тестовый скрипт проверки блока расширения арифметических функций
+add wave sim:/alu_arithmetic_extender/*
+force -freeze sim:/alu_arithmetic_extender/in_b 0 0, 1 {4000 ps} -r 8000
+force -freeze sim:/alu_arithmetic_extender/vdd 1 0
+force -freeze sim:/alu_arithmetic_extender/vss 0 0
+force -freeze sim:/alu_arithmetic_extender/operation_select(2) 0 0, 1 {2000 ps} -r 4000
+force -freeze sim:/alu_arithmetic_extender/operation_select(1) 0 0, 1 {1000 ps} -r 2000
+force -freeze sim:/alu_arithmetic_extender/operation_select(0) 0 0, 1 {500 ps} -r 1000
+run
+run
+run
+run
+run
+run
+run
+run

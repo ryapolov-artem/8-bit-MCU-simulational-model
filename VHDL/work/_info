@@ -1,0 +1,2545 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\Projects\ModelSim\5 - CMOS memory cell
+Ealu_arithmetic_extender
+Z1 w1318829269
+Z2 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z3 8E:/Projects/ModelSim/5 - CMOS memory cell/ALU Arithmetic Extender.vhd
+Z4 FE:/Projects/ModelSim/5 - CMOS memory cell/ALU Arithmetic Extender.vhd
+l0
+L7
+V>4lzRY]o?fSkHAb4]9SYE0
+Z5 OV;C;6.5b;42
+32
+Z6 o-work work -2002 -explicit -O0
+Z7 tExplicit 1
+!s100 :nSF_KK846:YWR?flKR^51
+Aalu_arithmetic_extender_arch
+R2
+DEx4 work 23 alu_arithmetic_extender 0 22 >4lzRY]o?fSkHAb4]9SYE0
+l32
+L13
+VzH;6@5X9nK?:C<h2UYR?I1
+R5
+32
+Z8 Mx1 4 ieee 14 std_logic_1164
+R6
+R7
+!s100 FLcPillj[B`Pl3;7G_>kM1
+Ealu_carry_extender
+Z9 w1318829452
+R2
+Z10 8E:/Projects/ModelSim/5 - CMOS memory cell/ALU Carry Extender.vhd
+Z11 FE:/Projects/ModelSim/5 - CMOS memory cell/ALU Carry Extender.vhd
+l0
+L7
+VoXRJDKGDlT>Bfz6KZR9fJ3
+R5
+32
+R6
+R7
+!s100 CWX36UbRNlQ<cO2GV@7g[0
+Aalu_carry_extender_arch
+R2
+DEx4 work 18 alu_carry_extender 0 22 oXRJDKGDlT>Bfz6KZR9fJ3
+l24
+L13
+Va3@e:Z_VjEUKW=eCHh0NB2
+R5
+32
+R8
+R6
+R7
+!s100 BUO6Wnf4mNGPiVbeLN`6e2
+Ealu_logic_extender
+Z12 w1318829316
+R2
+Z13 8E:/Projects/ModelSim/5 - CMOS memory cell/ALU Logic Extender.vhd
+Z14 FE:/Projects/ModelSim/5 - CMOS memory cell/ALU Logic Extender.vhd
+l0
+L7
+Vdd^KPbZ3R:6P0Nj2maS`P0
+R5
+32
+R6
+R7
+!s100 D1@fa101QZl;=M=e^81Ig3
+Aalu_logic_extender_arch
+R2
+DEx4 work 18 alu_logic_extender 0 22 dd^KPbZ3R:6P0Nj2maS`P0
+l41
+L13
+VT;FAOglDa^b0fLPPcPTET0
+R5
+32
+R8
+R6
+R7
+!s100 ;AooY?B^hP5@2NB9@394P2
+Ealu_unit
+Z15 w1318829492
+R2
+Z16 8E:/Projects/ModelSim/5 - CMOS memory cell/ALU Unit.vhd
+Z17 FE:/Projects/ModelSim/5 - CMOS memory cell/ALU Unit.vhd
+l0
+L7
+V:2]mN<lFYnFW<l>L<6Gb>1
+R5
+32
+R6
+R7
+!s100 3Uzz9FQJG6UFR8Y^G=1JU1
+Aalu_unit_arch
+R2
+DEx4 work 8 alu_unit 0 22 :2]mN<lFYnFW<l>L<6Gb>1
+l50
+L17
+VmX@BFlYAlDkG>BgAG?Hjc3
+R5
+32
+R8
+R6
+R7
+!s100 MX0ChZd5N`6dZJIU6c:Q>2
+Ebasic_and2
+Z18 w1318828595
+R2
+Z19 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-And.vhd
+Z20 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-And.vhd
+l0
+L4
+VR32ADPm8@Zjo_G>g=NL4e2
+R5
+32
+R6
+R7
+!s100 50ehg7MRmjczJUHjh<]RP2
+Abasic_and2_arch
+R2
+DEx4 work 10 basic_and2 0 22 R32ADPm8@Zjo_G>g=NL4e2
+l21
+L10
+V]S2bTJOYS4WA0ZDH6o=090
+R5
+32
+R8
+R6
+R7
+!s100 EQ5CO2CO79bh39@fY6Ula2
+Ebasic_and3
+Z21 w1318585037
+R2
+Z22 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-And.vhd
+Z23 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-And.vhd
+l0
+L4
+VaeX_<V@z;7VaYR9Z4M>?23
+R5
+32
+R6
+R7
+!s100 YA<eLSf;4?GI8kljNk8S=0
+Abasic_and3_arch
+R2
+DEx4 work 10 basic_and3 0 22 aeX_<V@z;7VaYR9Z4M>?23
+l21
+L10
+VEOO[_RM:9nATG9KTLSkd72
+R5
+32
+R8
+R6
+R7
+!s100 U6iI;ZQdIn]lY9P1Rn85:1
+Ebasic_and4
+Z24 w1318828968
+R2
+Z25 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-And.vhd
+Z26 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-And.vhd
+l0
+L4
+V_=ZO;J_J<SSV:HJX3o4Y>0
+R5
+32
+R6
+R7
+!s100 <Kn=8NQO^?Z3Tb3VlhaH;1
+Abasic_and4_arch
+R2
+DEx4 work 10 basic_and4 0 22 _=ZO;J_J<SSV:HJX3o4Y>0
+l21
+L10
+V1;7czjmTbGJo?Z7UV6MSI2
+R5
+32
+R8
+R6
+R7
+!s100 PP]0O?^:^^SKJa:c<aDWW3
+Ebasic_andnot2
+Z27 w1318584726
+R2
+Z28 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-And-Not.vhd
+Z29 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-And-Not.vhd
+l0
+L4
+VKn5>=h6Lz:;f2`<__TJP50
+R5
+32
+R6
+R7
+!s100 FM?9f]J[W?3>ZT7I?=nA=1
+Abasic_andnot2_arch
+R2
+DEx4 work 13 basic_andnot2 0 22 Kn5>=h6Lz:;f2`<__TJP50
+l21
+L10
+Vh4z0ZDTiahN]oc:=dJ<ZN0
+R5
+32
+R8
+R6
+R7
+!s100 D=XFY=LM@a;6F3d=<W_ai1
+Ebasic_andnot3
+Z30 w1318585015
+R2
+Z31 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-And-Not.vhd
+Z32 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-And-Not.vhd
+l0
+L4
+VmZooAQRGCT7G3XLK4Mh6`0
+R5
+32
+R6
+R7
+!s100 ZgV9fLhNjl?WFBkkBnW_91
+Abasic_andnot3_arch
+R2
+DEx4 work 13 basic_andnot3 0 22 mZooAQRGCT7G3XLK4Mh6`0
+l21
+L10
+V8a3]AQ8ZS?i1I3hb:Mil[0
+R5
+32
+R8
+R6
+R7
+!s100 8N4cSQ7AM<4JJm^MYY=H_2
+Ebasic_andnot4
+Z33 w1318828986
+R2
+Z34 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-And-Not.vhd
+Z35 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-And-Not.vhd
+l0
+L4
+V63I1=@WV?@VB4^fTaJgcX1
+R5
+32
+R6
+R7
+!s100 8iM;cFFUzo_f4>TNBfHBh3
+Abasic_andnot4_arch
+R2
+DEx4 work 13 basic_andnot4 0 22 63I1=@WV?@VB4^fTaJgcX1
+l21
+L10
+Vg1h:mh<^SS3mzFm4Mhg@H2
+R5
+32
+R8
+R6
+R7
+!s100 m4Z@[nANXZ=J5<1;FO4k73
+Ebasic_or2
+Z36 w1318829028
+R2
+Z37 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-Or.vhd
+Z38 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-Or.vhd
+l0
+L4
+VU3H5BXAZT3P>;5]i`>UN31
+R5
+32
+R6
+R7
+!s100 H]WH0lnIb@5`8C2z^WXUV2
+Abasic_or2_arch
+R2
+DEx4 work 9 basic_or2 0 22 U3H5BXAZT3P>;5]i`>UN31
+l21
+L10
+V2n3S3P;>kUYF4UkgNP=jQ1
+R5
+32
+R8
+R6
+R7
+!s100 gohM0<;?c=c_E0zk5mjYc0
+Ebasic_or3
+Z39 w1318828906
+R2
+Z40 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-Or.vhd
+Z41 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-Or.vhd
+l0
+L4
+VmY@zS=LWLhRKCPdNHNlN=2
+R5
+32
+R6
+R7
+!s100 ^dA87l?e_D?JD<DMLN@:=3
+Abasic_or3_arch
+R2
+DEx4 work 9 basic_or3 0 22 mY@zS=LWLhRKCPdNHNlN=2
+l21
+L10
+VQ9iSRfQCmShL>JzhAUE_A0
+R5
+32
+R8
+R6
+R7
+!s100 IUgOMG2QBZFQ^49cDS76a2
+Ebasic_or4
+Z42 w1318828501
+R2
+Z43 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-Or.vhd
+Z44 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-Or.vhd
+l0
+L4
+V>;]U:=MIAAC^c@1oVZ0:E3
+R5
+32
+R6
+R7
+!s100 g3PFlR0Qg5o^>:6Wc9jHH0
+Abasic_or4_arch
+R2
+DEx4 work 9 basic_or4 0 22 >;]U:=MIAAC^c@1oVZ0:E3
+l21
+L10
+V0_`klFbVG<h]T7W1K;gQQ2
+R5
+32
+R8
+R6
+R7
+!s100 X?^lnK[YX3EZ0jiHlgXST0
+Ebasic_ornot2
+Z45 w1318829047
+R2
+Z46 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-Or-Not.vhd
+Z47 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-Or-Not.vhd
+l0
+L4
+VWLn9H<WzUhXc54MK7N]:^1
+R5
+32
+R6
+R7
+!s100 PbQS`G`TTigXg1WLLmYi_3
+Abasic_ornot2_arch
+R2
+DEx4 work 12 basic_ornot2 0 22 WLn9H<WzUhXc54MK7N]:^1
+l21
+L10
+V62<za[6>ABW<8WeKcD;=C2
+R5
+32
+R8
+R6
+R7
+!s100 _ZcAT15GRCH6[nm1Z7>2T1
+Ebasic_ornot3
+Z48 w1318828947
+R2
+Z49 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-Or-Not.vhd
+Z50 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-Or-Not.vhd
+l0
+L4
+VaAgZD=d_7z9z1E]U:[IRG1
+R5
+32
+R6
+R7
+!s100 [XTd`[6M`4E0;212KDPdE3
+Abasic_ornot3_arch
+R2
+DEx4 work 12 basic_ornot3 0 22 aAgZD=d_7z9z1E]U:[IRG1
+l21
+L10
+VZg@NIaj^MUeh5N8SdCL<z3
+R5
+32
+R8
+R6
+R7
+!s100 ea;F9O?e8Q_UoPBW__iI_3
+Ebasic_ornot4
+Z51 w1318828492
+R2
+Z52 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-Or-Not.vhd
+Z53 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-Or-Not.vhd
+l0
+L4
+VCHh`Gaca[DbDn>GPcO^nl2
+R5
+32
+R6
+R7
+!s100 Pi_9X89bmY=D^jfb9fTI53
+Abasic_ornot4_arch
+R2
+DEx4 work 12 basic_ornot4 0 22 CHh`Gaca[DbDn>GPcO^nl2
+l21
+L10
+Vj19m50S;f2g2]5:2aN5KD0
+R5
+32
+R8
+R6
+R7
+!s100 ZB=:]i7gHb>]f_P=no=ER0
+Ebasic_xor
+Z54 w1318828929
+R2
+Z55 8E:/Projects/ModelSim/5 - CMOS memory cell/Basic XOR.vhd
+Z56 FE:/Projects/ModelSim/5 - CMOS memory cell/Basic XOR.vhd
+l0
+L7
+VWc10O@g;Dk>gGc:OkbNa73
+R5
+32
+R6
+R7
+!s100 U[gMFS_`73FiFz]8[mjWi2
+Abasic_xor_arch
+R2
+DEx4 work 9 basic_xor 0 22 Wc10O@g;Dk>gGc:OkbNa73
+l23
+L12
+V3M0lJ:DXEcaDd7==HQ3<O3
+R5
+32
+R8
+R6
+R7
+!s100 EnN];i@bRiT=96dUhWfAC3
+Ebinary_up_counter
+Z57 w1323174135
+R2
+Z58 8E:/Projects/ModelSim/5 - CMOS memory cell/Binary Up Counter.vhd
+Z59 FE:/Projects/ModelSim/5 - CMOS memory cell/Binary Up Counter.vhd
+l0
+L4
+V8zJoXj0nmhR31PGOMQ9OF1
+R5
+32
+R6
+R7
+!s100 gk2SABAc[hn`CjHHA6f?=1
+Abinary_up_counter_arch
+R2
+DEx4 work 17 binary_up_counter 0 22 8zJoXj0nmhR31PGOMQ9OF1
+l27
+L13
+VO]Z3UX:Hk4Il]9VI9?aMR0
+R5
+32
+R8
+R6
+R7
+!s100 <W64j^IkP:Ek<8^N093T[1
+Ebinary_up_down_counter_w_pload
+Z60 w1318829938
+R2
+Z61 8E:/Projects/ModelSim/5 - CMOS memory cell/Binary Up-Down Counter w parallel load.vhd
+Z62 FE:/Projects/ModelSim/5 - CMOS memory cell/Binary Up-Down Counter w parallel load.vhd
+l0
+L5
+V`A04LX4GPzC_cWzknRe_@1
+R5
+32
+R6
+R7
+!s100 5<mBDbPc[VA^ezK^eb:nz0
+Abinary_up_down_counter_w_pload_arch
+R2
+DEx4 work 30 binary_up_down_counter_w_pload 0 22 `A04LX4GPzC_cWzknRe_@1
+l36
+L16
+V]0BdfAeUa2[PkQ?JgdDOH1
+R5
+32
+R8
+R6
+R7
+!s100 FnmHSPIY;z7ko6`8lVV071
+Econnect_line
+Z63 w1321949919
+R2
+Z64 8E:/Projects/ModelSim/5 - CMOS memory cell/ROM Connection Line.vhd
+Z65 FE:/Projects/ModelSim/5 - CMOS memory cell/ROM Connection Line.vhd
+l0
+L8
+VFh^@0ObEHZ2h?a_]_k[Mb1
+R5
+32
+R6
+R7
+!s100 SaP7?zQ>7aTca1Q?Ej?ZV0
+Aconnect_line
+R2
+DEx4 work 12 connect_line 0 22 Fh^@0ObEHZ2h?a_]_k[Mb1
+l13
+L12
+VVY=n<>n^?Q1PF0RLSof<c0
+R5
+32
+R8
+R6
+R7
+!s100 kd>DdkW=NLk0D?O<56_Uh2
+Econtrol_unit
+Z66 w1322825194
+R2
+Z67 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Control Unit.vhd
+Z68 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Control Unit.vhd
+l0
+L5
+V<5Q=9I8cZMYkR37NN>i6X1
+R5
+32
+R6
+R7
+!s100 ZL8BF6WZ:[>^`Az6:C_c[0
+Acontrol_unit
+R2
+DEx4 work 12 control_unit 0 22 <5Q=9I8cZMYkR37NN>i6X1
+l65
+L11
+VV82W4>kKmJzeDlkKR>z_@3
+R5
+32
+R8
+R6
+R7
+!s100 mEk1H3FgW0m_V9mK[a00O2
+Ed_latch
+Z69 w1322620458
+R2
+Z70 8E:/Projects/ModelSim/5 - CMOS memory cell/D Latch.vhd
+Z71 FE:/Projects/ModelSim/5 - CMOS memory cell/D Latch.vhd
+l0
+L6
+V`J@ZUO2>OP53?;jV7fMa[0
+R5
+32
+R6
+R7
+!s100 o_?FF?G;]>1NV2j9X6@IN1
+Ad_andnot_latch
+R2
+Z72 DEx4 work 7 d_latch 0 22 `J@ZUO2>OP53?;jV7fMa[0
+l43
+L32
+V3dLPSfMOgNn1h24d?9c;[3
+R5
+32
+R8
+R6
+R7
+!s100 :_OSMWz3zaNhJngWBO[SE3
+Ad_ornot_latch
+R2
+R72
+l24
+L13
+Vo87D?QKl34WcPYRi:U]bE0
+R5
+32
+R8
+R6
+R7
+!s100 fLZ7;gd9VMh4CO?OJc35J2
+Ed_latch_w_enable
+Z73 w1322621110
+R2
+Z74 8E:/Projects/ModelSim/5 - CMOS memory cell/D Latch w enable.vhd
+Z75 FE:/Projects/ModelSim/5 - CMOS memory cell/D Latch w enable.vhd
+l0
+L6
+Vhl63M8KNC5O55XMQBg=0B1
+R5
+32
+R6
+R7
+!s100 4dd1FTSWX>ZDDW?BzL4K81
+Ad_latch_w_enable
+R2
+DEx4 work 16 d_latch_w_enable 0 22 hl63M8KNC5O55XMQBg=0B1
+l25
+L12
+VSkEO?^m8ZB5W=Jdn>knkm0
+R5
+32
+R8
+R6
+R7
+!s100 X5oaXlbF[@8XEXRPKc4>`2
+Ed_trigger
+Z76 w1318829611
+R2
+Z77 8E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger.vhd
+Z78 FE:/Projects/ModelSim/5 - CMOS memory cell/D-trigger.vhd
+l0
+L4
+V<<3i4=Mg4POjMe;_Mm8z>2
+R5
+32
+R6
+R7
+!s100 [XLBH<Tm_0C:K2W]U_MUH2
+Ad_trigger_arch
+R2
+DEx4 work 9 d_trigger 0 22 <<3i4=Mg4POjMe;_Mm8z>2
+l21
+L10
+V_;EoiSo2cPI:`82YdM?oz1
+R5
+32
+R8
+R6
+R7
+!s100 K5YFn0eKIgiAS2??IOWM12
+Ed_trigger_enable
+Z79 w1320644538
+R2
+Z80 8E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w enable.vhd
+Z81 FE:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w enable.vhd
+l0
+L7
+VGR^n5ibF3I:W8AGml7[AD1
+R5
+32
+R6
+R7
+!s100 YTMGXgbFfQ2HTKe:V4aFG1
+Ad_trigger_enable_arch
+R2
+DEx4 work 16 d_trigger_enable 0 22 GR^n5ibF3I:W8AGml7[AD1
+l26
+L13
+V_>Vd`Oi6`H?kWm2X@?AB]2
+R5
+32
+R8
+R6
+R7
+!s100 c37@h4U4:YPGTGlUF^md=2
+Ed_trigger_res
+Z82 w1318829691
+R2
+Z83 8E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w reset.vhd
+Z84 FE:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w reset.vhd
+l0
+L4
+VmA739GQ^2zzoVGRMN=[8F0
+R5
+32
+R6
+R7
+!s100 SGzfDm@H]E19LV6n=dLeZ0
+Ad_trigger_res_arch
+R2
+DEx4 work 13 d_trigger_res 0 22 mA739GQ^2zzoVGRMN=[8F0
+l25
+L10
+VCPJV[n>FkRPaQMCzeWbOj0
+R5
+32
+R8
+R6
+R7
+!s100 ^aXeKS;^AI>Gb`CYl3MSG0
+Ed_trigger_reset_enable
+Z85 w1320645027
+R2
+Z86 8E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w enable and reset.vhd
+Z87 FE:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w enable and reset.vhd
+l0
+L7
+V3z5Tn=DbT7^[5]UOPRiVI0
+R5
+32
+R6
+R7
+!s100 mA70dKAi19FK^IJXC^RPm1
+Ad_trigger_reset_enable
+R2
+DEx4 work 22 d_trigger_reset_enable 0 22 3z5Tn=DbT7^[5]UOPRiVI0
+l27
+L13
+VBPBNW26oMoIn^??PLUZj<1
+R5
+32
+R8
+R6
+R7
+!s100 H`ccFY]=0Mm^bJY0UN5_^3
+Ed_trigger_set_res
+Z88 w1318829675
+R2
+Z89 8E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w set & reset.vhd
+Z90 FE:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w set & reset.vhd
+l0
+L4
+VBfPRf<eDJYh_UdCggk9222
+R5
+32
+R6
+R7
+!s100 hn3C27aI[]7IFcUM:F]HU0
+Ad_trigger_set_res_arch
+R2
+DEx4 work 17 d_trigger_set_res 0 22 BfPRf<eDJYh_UdCggk9222
+l25
+L10
+V@CjZT]Q^P>i;=CKbD64Tk2
+R5
+32
+R8
+R6
+R7
+!s100 m1Y6l29=:]MmlEXHV3z;h0
+Edatapath_unit
+Z91 w1322762250
+R2
+Z92 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Datapath unit.vhd
+Z93 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Datapath unit.vhd
+l0
+L8
+V>N7F;jEJd=g0JzBeeOQzU1
+R5
+32
+R6
+R7
+!s100 Va2z`^lHko=aD9KbYEldh1
+Adatapath_unit
+R2
+DEx4 work 13 datapath_unit 0 22 >N7F;jEJd=g0JzBeeOQzU1
+l73
+L23
+VG1zPEUd7nOMLj`c<FAbP;1
+R5
+32
+R8
+R6
+R7
+!s100 LG@k?]44`_Em>bJkh3`@Q1
+Edecoder_2to4
+Z94 w1318584955
+R2
+Z95 8E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 2 to 4.vhd
+Z96 FE:/Projects/ModelSim/5 - CMOS memory cell/Decoder 2 to 4.vhd
+l0
+L6
+V3jWOb^1B;8HLnnl5zCEIT0
+R5
+32
+R6
+R7
+!s100 zQaA?8S30GE`zMTc>mMz70
+Adecoder_2to4_arch
+R2
+DEx4 work 12 decoder_2to4 0 22 3jWOb^1B;8HLnnl5zCEIT0
+l23
+L12
+VikAca9;:[?JXYg7K_UQFP1
+R5
+32
+R8
+R6
+R7
+!s100 L:nT<TXBQI9_aH[Z`V7P`1
+Edecoder_2to4_tg
+Z97 w1322805675
+R2
+Z98 8E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 2 to 4 transm gates.vhd
+Z99 FE:/Projects/ModelSim/5 - CMOS memory cell/Decoder 2 to 4 transm gates.vhd
+l0
+L5
+VBAYfabBDkX8C1a9I2gDiO0
+R5
+32
+R6
+R7
+!s100 j;[0ImILKU]kfPoIQ82E02
+Adecoder_2to4_tg_arch
+R2
+DEx4 work 15 decoder_2to4_tg 0 22 BAYfabBDkX8C1a9I2gDiO0
+l22
+L11
+VL`Z[_EmWll8hOCoZ86?aC1
+R5
+32
+R8
+R6
+R7
+!s100 ]Lc60m71N;5La3=MQ>zWV1
+Edecoder_3to8
+Z100 w1318326489
+R2
+Z101 8E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 3 to 8.vhd
+Z102 FE:/Projects/ModelSim/5 - CMOS memory cell/Decoder 3 to 8.vhd
+l0
+L6
+VMMN3GC;;kEYh[]mHjZ_W>0
+R5
+32
+R6
+R7
+!s100 aOAcSGl[Vd2^j];^F5_De2
+Adecoder_3to8_arch
+R2
+DEx4 work 12 decoder_3to8 0 22 MMN3GC;;kEYh[]mHjZ_W>0
+l24
+L12
+VcNl4WM>WhE`]NMj53ki311
+R5
+32
+R8
+R6
+R7
+!s100 l[VA;eG7WnQOT?d6BATzL0
+Edelay_counter
+Z103 w1323242741
+R2
+Z104 8E:/Projects/ModelSim/5 - CMOS memory cell/Delay counter.vhd
+Z105 FE:/Projects/ModelSim/5 - CMOS memory cell/Delay counter.vhd
+l0
+L4
+V3?OB@i?d0DDLJVPF;@>EB3
+R5
+32
+R6
+R7
+!s100 7J4g6HWe7g8CoW@O8ZZT=2
+Adelay_counter
+R2
+DEx4 work 13 delay_counter 0 22 3?OB@i?d0DDLJVPF;@>EB3
+l28
+L11
+VS>Y=Xb]dDh[6oDI[`7mEh2
+R5
+32
+R8
+R6
+R7
+!s100 B>4DP9eBd8H:c^OEIbdKK3
+Eeeprom_unit
+w1321432124
+R2
+8E:/Projects/ModelSim/5 - CMOS memory cell/Program memory.vhd
+FE:/Projects/ModelSim/5 - CMOS memory cell/Program memory.vhd
+l0
+L9
+VXBei;XbAjVfn`IRajNaAT2
+R5
+32
+R6
+R7
+!s100 N4>diTYhbzSnFj^ZkW8O`0
+Efloating_gate_fet
+Z106 w1321949178
+R2
+Z107 8E:/Projects/ModelSim/5 - CMOS memory cell/Floating Gate FET for ROM.vhd
+Z108 FE:/Projects/ModelSim/5 - CMOS memory cell/Floating Gate FET for ROM.vhd
+l0
+L4
+VjT?BkC9RU?Ke48jiB2N;o3
+R5
+32
+R6
+R7
+!s100 INK496o=1bb[;PhAef:LE3
+Afloating_gate_fet
+R2
+DEx4 work 17 floating_gate_fet 0 22 jT?BkC9RU?Ke48jiB2N;o3
+l9
+L8
+VLn?]8h2]lkQ4mMPLk1;ch1
+R5
+32
+R8
+R6
+R7
+!s100 DhfbTG2m@BJCISH7NE97E0
+Efull_adder_cell
+Z109 w1318829369
+R2
+Z110 8E:/Projects/ModelSim/5 - CMOS memory cell/Full Adder Cell.vhd
+Z111 FE:/Projects/ModelSim/5 - CMOS memory cell/Full Adder Cell.vhd
+l0
+L7
+VYT1M1_f3keB@8=3F9M1?U0
+R5
+32
+R6
+R7
+!s100 SZ@bNa4oE^zG0gkJ6Fibf2
+Afull_adder_cell_arch
+R2
+DEx4 work 15 full_adder_cell 0 22 YT1M1_f3keB@8=3F9M1?U0
+l31
+L12
+V8;`oD@3A7?lAV@GmZBAPj1
+R5
+32
+R8
+R6
+R7
+!s100 A_1D5R`R>FW1IXOh8eo]Z2
+Efulladdercell
+Z112 w1318241610
+R2
+R110
+R111
+l0
+L7
+VZ3i@k4a6HN`4JF[CmP<OR0
+R5
+32
+R6
+R7
+!s100 MEb2B[Y14[=3]OGFLPGb:2
+Afulladdercell_arch
+R2
+DEx4 work 13 fulladdercell 0 22 Z3i@k4a6HN`4JF[CmP<OR0
+l31
+L12
+VU;NM1oc;IUVFeeW?:TQ533
+R5
+32
+R8
+R6
+R7
+!s100 NEj78^6BzHHF6;7^f>6SI0
+Ehalf_adder_cell
+Z113 w1318829381
+R2
+Z114 8E:/Projects/ModelSim/5 - CMOS memory cell/Half Adder Cell.vhd
+Z115 FE:/Projects/ModelSim/5 - CMOS memory cell/Half Adder Cell.vhd
+l0
+L7
+VfWC:;HHSC0;cB271g^X@L3
+R5
+32
+R6
+R7
+!s100 @6K1CTjL0>2LWJj6d<Id80
+Ahalf_adder_cell_arch
+R2
+DEx4 work 15 half_adder_cell 0 22 fWC:;HHSC0;cB271g^X@L3
+l22
+L12
+V5Bz:H7FoUAm9HAY;>jT`80
+R5
+32
+R8
+R6
+R7
+!s100 kBV6JkeR5bX?UI5oQ?<;m1
+Ehalf_adder_substractor_cell
+Z116 w1318829474
+R2
+Z117 8E:/Projects/ModelSim/5 - CMOS memory cell/Half Adder-Substractor Cell.vhd
+Z118 FE:/Projects/ModelSim/5 - CMOS memory cell/Half Adder-Substractor Cell.vhd
+l0
+L7
+VRC5iEKDXb_b>mhcf[F]U20
+R5
+32
+R6
+R7
+!s100 SS8dWGbO7NkBJl`20cNEg3
+Ahalf_adder_substractor_cell_arch
+R2
+DEx4 work 27 half_adder_substractor_cell 0 22 RC5iEKDXb_b>mhcf[F]U20
+l23
+L12
+VMk]Kd`QX:Q0RT3]U:eQ:=2
+R5
+32
+R8
+R6
+R7
+!s100 _UY;:6?[DG:l67Pm6_i1K2
+Einstruction_register
+Z119 w1320646791
+R2
+Z120 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Instruction Register.vhd
+Z121 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Instruction Register.vhd
+l0
+L7
+V8?I[M<>a^QYE8]P@9m;Uf3
+R5
+32
+R6
+R7
+!s100 XSVk=FVPcZiA5^P;`blPN0
+Ainstruction_register
+R2
+DEx4 work 20 instruction_register 0 22 8?I[M<>a^QYE8]P@9m;Uf3
+l22
+L14
+Vd;0Sfa6lLHCS:l;jTlKU]0
+R5
+32
+R8
+R6
+R7
+!s100 AEIA8h3E21hh[[6bAchPJ3
+Einverter
+Z122 w1318584980
+R2
+Z123 8E:/Projects/ModelSim/5 - CMOS memory cell/inverter v2.vhd
+Z124 FE:/Projects/ModelSim/5 - CMOS memory cell/inverter v2.vhd
+l0
+L4
+VY97PS3Tffi6>@EUcWPTl;2
+R5
+32
+R6
+R7
+!s100 ^WH9G7>UHjT[lWazMRKi63
+Ainvert_arch
+R2
+DEx4 work 8 inverter 0 22 Y97PS3Tffi6>@EUcWPTl;2
+l19
+L9
+VZh227IIbSXK;2]ZgIC30=0
+R5
+32
+R8
+R6
+R7
+!s100 RAD@DS8C@4i]Ydf5Q`1mk2
+Eio_port_a
+Z125 w1323158811
+R2
+Z126 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port A.vhd
+Z127 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Port A.vhd
+l0
+L8
+VQbk[IXS<SkQP_l_02PdHo0
+R5
+32
+R6
+R7
+!s100 ^e_zzhDI>b4_l3;RFB=EK2
+Aio_port_a
+R2
+DEx4 work 9 io_port_a 0 22 Qbk[IXS<SkQP_l_02PdHo0
+l55
+L16
+VbfEFM;S7n`S`2EzSH@kc71
+R5
+32
+R8
+R6
+R7
+!s100 U<>KRZ6D=kBBfgeH3gTgk2
+Eio_port_b
+Z128 w1323678929
+R2
+Z129 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port B.vhd
+Z130 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Port B.vhd
+l0
+L8
+V2E9G]LKMoRjHZkY<f_KBT1
+R5
+32
+R6
+R7
+!s100 4_LU?dMeXWVcI9[PNW;C?2
+Aio_port_b
+R2
+DEx4 work 9 io_port_b 0 22 2E9G]LKMoRjHZkY<f_KBT1
+l55
+L16
+V3bm_RUiRo?7FbShSP^>5n3
+R5
+32
+R8
+R6
+R7
+!s100 19jDiZbdz3Pi:Y?LhMkJS2
+Ejohncount_cell
+Z131 w1318239019
+R2
+Z132 8E:/Projects/ModelSim/5 - CMOS memory cell/Johnson Counter Cell.vhd
+Z133 FE:/Projects/ModelSim/5 - CMOS memory cell/Johnson Counter Cell.vhd
+l0
+L4
+VdLJF^3Bf`ja8F:bWmD:Tc3
+R5
+32
+R6
+R7
+!s100 C4f^VSQAHaOlVz?Xn=Zo41
+Ajohncount_cell_arch
+R2
+DEx4 work 14 johncount_cell 0 22 dLJF^3Bf`ja8F:bWmD:Tc3
+l25
+L10
+VnL0[Po0]Kd>355f>V@];20
+R5
+32
+R8
+R6
+R7
+!s100 7=E8AhlDYKQmQZm[JRIm22
+Emcu
+Z134 w1323769762
+R2
+Z135 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Unit.vhd
+Z136 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Unit.vhd
+l0
+L5
+Vj[:UFQd[bcmE`QGAfkg192
+R5
+32
+R6
+R7
+!s100 Tc6dc9:9>[il7c41Vk8Kk2
+Amcu_arch
+R2
+DEx4 work 3 mcu 0 22 j[:UFQd[bcmE`QGAfkg192
+l171
+L11
+V21jZJT;be@^VhEEoK^eVh1
+R5
+32
+R8
+R6
+R7
+!s100 5?9T9A9OKJnERXBRFDEEI3
+Emux_2to1
+Z137 w1322806475
+R2
+Z138 8E:/Projects/ModelSim/5 - CMOS memory cell/Mux 2 to 1.vhd
+Z139 FE:/Projects/ModelSim/5 - CMOS memory cell/Mux 2 to 1.vhd
+l0
+L7
+V];U[LzGE>9QokWOJ6EHP<1
+R5
+32
+R6
+R7
+!s100 =UO0GlmLQC6cWW6e`V>3T0
+Amux_2to1_arch
+R2
+DEx4 work 8 mux_2to1 0 22 ];U[LzGE>9QokWOJ6EHP<1
+l25
+L13
+V01aDg_H=R3CKH5CUUYcHW2
+R5
+32
+R8
+R6
+R7
+!s100 XIJU8JCX9JK[7QKY1I;Q_1
+Emux_4to1
+Z140 w1318838123
+R2
+Z141 8E:/Projects/ModelSim/5 - CMOS memory cell/Mux 4 to 1.vhd
+Z142 FE:/Projects/ModelSim/5 - CMOS memory cell/Mux 4 to 1.vhd
+l0
+L7
+VN7?`R8Md^TID<9lf7z:OL2
+R5
+32
+R6
+R7
+!s100 WlZ=6H_@DYIFih8fICY]13
+Amux_4to1_arch
+R2
+DEx4 work 8 mux_4to1 0 22 N7?`R8Md^TID<9lf7z:OL2
+l25
+L14
+Va0d1^H9m^5]<EAO<42:oo0
+R5
+32
+R8
+R6
+R7
+!s100 hb1P97jb^h@[kLNm[P@bL1
+Emux_8bit_2to1
+Z143 w1318496827
+R2
+Z144 8E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8bit 2 to 1.vhd
+Z145 FE:/Projects/ModelSim/5 - CMOS memory cell/Mux 8bit 2 to 1.vhd
+l0
+L5
+VcBGJ`;VCY5?6N8CIi<oBj2
+R5
+32
+R6
+R7
+!s100 NL9VD?aELaSMFzU]FacC71
+Amux_8bit_2to1_arch
+R2
+DEx4 work 13 mux_8bit_2to1 0 22 cBGJ`;VCY5?6N8CIi<oBj2
+l18
+L11
+VRX6`e_cj?B^fk:C^G6?6l3
+R5
+32
+R8
+R6
+R7
+!s100 5^[FPmmUW?MKgC7>@PBmI3
+Emux_8to1
+Z146 w1323161713
+R2
+Z147 8E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8 to 1.vhd
+Z148 FE:/Projects/ModelSim/5 - CMOS memory cell/Mux 8 to 1.vhd
+l0
+L7
+VceE>?G7`X_>XOeZ>EgkdW3
+R5
+32
+R6
+R7
+!s100 g7@zUYCj`C<=cHf2]FOAR2
+Amux_8to1_arch
+R2
+DEx4 work 8 mux_8to1 0 22 ceE>?G7`X_>XOeZ>EgkdW3
+l25
+L14
+VPcM9>lD[zUEN[DMZJWOWb0
+R5
+32
+R8
+R6
+R7
+!s100 P>Y708amKLmVnW;KJcA6;0
+Emux_8to1_2
+Z149 w1318237194
+R2
+Z150 8E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8 to 1 (built with 6 mux 2 to 1).vhd
+Z151 FE:/Projects/ModelSim/5 - CMOS memory cell/Mux 8 to 1 (built with 6 mux 2 to 1).vhd
+l0
+L9
+VHT8=2d:^P0HGeaf@2^f7N2
+R5
+32
+R6
+R7
+!s100 Xd<VZ?b970oWC:Oc6LYG^2
+Amux_8to1_2_arch
+R2
+DEx4 work 10 mux_8to1_2 0 22 HT8=2d:^P0HGeaf@2^f7N2
+l24
+L16
+V1NCeZ`W^O[_NdEAR8U_3F1
+R5
+32
+R8
+R6
+R7
+!s100 S@SRgAm79lB5OcPK_OX3a0
+Enfet
+Z152 w1324289172
+R2
+Z153 8E:/Projects/ModelSim/5 - CMOS memory cell/CMOS Transistors v. 5.vhd
+Z154 FE:/Projects/ModelSim/5 - CMOS memory cell/CMOS Transistors v. 5.vhd
+l0
+L4
+VJCL4;Gf8h_C685Z^D09JC3
+!s100 ShflliS2?<M0eKiDRS<b=3
+R5
+32
+R6
+R7
+Anfet
+R2
+Z155 DEx4 work 4 nfet 0 22 JCL4;Gf8h_C685Z^D09JC3
+l10
+L8
+VM][ETZIN4>OU9MI;5[`dR3
+!s100 7j@Jn61Jo?T1DKlkMFkQ23
+R5
+32
+R8
+R6
+R7
+Enfet_v5
+Z156 w1323894362
+R2
+Z157 8E:/Projects/ModelSim/5 - CMOS memory cell/Test CMOS Transistors v5.vhd
+Z158 FE:/Projects/ModelSim/5 - CMOS memory cell/Test CMOS Transistors v5.vhd
+l0
+L4
+V^MIlBW0`hIUEK>^QJ7ad<3
+R5
+32
+R6
+R7
+!s100 a^eg@zbS8d<moe4AFl?8?2
+Anfet_v5
+R2
+DEx4 work 7 nfet_v5 0 22 ^MIlBW0`hIUEK>^QJ7ad<3
+l9
+L8
+Vd26Zc651_QX4A9mO2?`U:0
+R5
+32
+R8
+R6
+R7
+!s100 3UILXzhDch[zPLBFzAI=e0
+Enon_inv_buffer
+Z159 w1320640290
+R2
+Z160 8E:/Projects/ModelSim/5 - CMOS memory cell/Non Invert Buffer.vhd
+Z161 FE:/Projects/ModelSim/5 - CMOS memory cell/Non Invert Buffer.vhd
+l0
+L6
+VNU7Zb[Lf9HZ6<55XB<aiz3
+R5
+32
+R6
+R7
+!s100 434o01aXHzUCjicXAPUOT0
+Anon_inv_buffer
+R2
+DEx4 work 14 non_inv_buffer 0 22 NU7Zb[Lf9HZ6<55XB<aiz3
+l18
+L11
+VKa6l:GebmD0mDi95k8>R`3
+R5
+32
+R8
+R6
+R7
+!s100 d?>PVzX2PSGela[ECO@c>0
+Epc_addr_decoder
+Z162 w1323681215
+R2
+Z163 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU PC Addr decoder.vhd
+Z164 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU PC Addr decoder.vhd
+l0
+L8
+Vm[AbQ=iQ`<Xf?36ZoV@FQ1
+R5
+32
+R6
+R7
+!s100 I6A5heABLO83H=8Yf>zc31
+Apc_addr_decoder
+R2
+DEx4 work 15 pc_addr_decoder 0 22 m[AbQ=iQ`<Xf?36ZoV@FQ1
+l35
+L14
+VcI0>XlMlk:d@`kGVa?A6c0
+R5
+32
+R8
+R6
+R7
+!s100 PZDnjc4QPIZiikZWCZ<AD2
+Epfet
+R152
+R2
+R153
+R154
+l0
+L31
+VbRbaBJ;4j;;=kW0@15:6i0
+!s100 ^jS>Dl_m1O=@oIf8QG4=f0
+R5
+32
+R6
+R7
+Apfet
+R2
+Z165 DEx4 work 4 pfet 0 22 bRbaBJ;4j;;=kW0@15:6i0
+l37
+L35
+V?XjaCR2]Y4:48ABKS4T130
+!s100 1L=O1QKEZb^lF;9i9h<fT2
+R5
+32
+R8
+R6
+R7
+Epfet_v5
+R156
+R2
+R157
+R158
+l0
+L27
+VUR5J@<g`nAz75U?lO1e8:1
+R5
+32
+R6
+R7
+!s100 hTahz:9[Y?<T^Lmo7P5o`2
+Apfet_v5
+R2
+DEx4 work 7 pfet_v5 0 22 UR5J@<g`nAz75U?lO1e8:1
+l32
+L31
+VEo=C^56YMA;fZidkjz:541
+R5
+32
+R8
+R6
+R7
+!s100 CIEo_DDO^4DQ@P1CoH^Vn1
+Ephase_counter
+Z166 w1320915137
+R2
+Z167 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Phase Counter.vhd
+Z168 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Phase Counter.vhd
+l0
+L7
+Vn2;c:;IeU5NS;ZbL@[PW^1
+R5
+32
+R6
+R7
+!s100 f6BZbLCR;Y=`=dJlEhCD52
+Aphase_counter
+R2
+DEx4 work 13 phase_counter 0 22 n2;c:;IeU5NS;ZbL@[PW^1
+l26
+L12
+V4>kzGi]g7JJYaA;j:ROWC2
+R5
+32
+R8
+R6
+R7
+!s100 498QbO<D604jCVG=5OQdC3
+Ephase_w_res_enalbe
+Z169 w1321356810
+R2
+Z170 8E:/Projects/ModelSim/5 - CMOS memory cell/Test phase generator with reset enable.vhd
+Z171 FE:/Projects/ModelSim/5 - CMOS memory cell/Test phase generator with reset enable.vhd
+l0
+L6
+V2<IEoJPW1?GTg:kU76i8_1
+R5
+32
+R6
+R7
+!s100 kQgD0A5WR;]Rb0jDB3o=M1
+Aphase_w_res_enalbe
+R2
+DEx4 work 18 phase_w_res_enalbe 0 22 2<IEoJPW1?GTg:kU76i8_1
+l26
+L11
+VDQYa9eokC8MF:K72P;N7l0
+R5
+32
+R8
+R6
+R7
+!s100 ^8ifUgDdijM7Fne^5a[lc2
+Eport_a_regs_decoders
+Z172 w1323681376
+R2
+Z173 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port A registers addr decoders.vhd
+Z174 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Port A registers addr decoders.vhd
+l0
+L6
+V]k^7i;^RQBkngI9]CZ8X=3
+R5
+32
+R6
+R7
+!s100 >N`7CPR:AMcXWgd_7i8OY3
+Aport_a_regs_decoders
+R2
+DEx4 work 20 port_a_regs_decoders 0 22 ]k^7i;^RQBkngI9]CZ8X=3
+l34
+L14
+VDmTZi4h3BNC2=U^5Z8IMI2
+R5
+32
+R8
+R6
+R7
+!s100 gV8Z_k=8B3kLR[6=i92620
+Eport_b_regs_decoders
+Z175 w1323681428
+R2
+Z176 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port B registers addr decoders.vhd
+Z177 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Port B registers addr decoders.vhd
+l0
+L6
+VAVQS0ZUG=JSWCKP>GDP9a3
+R5
+32
+R6
+R7
+!s100 l9AnbbmPA7Mf;zM@=BiS>2
+Aport_b_regs_decoders
+R2
+DEx4 work 20 port_b_regs_decoders 0 22 AVQS0ZUG=JSWCKP>GDP9a3
+l34
+L14
+VLZkO0dMa:Mlm3;@hj>ez42
+R5
+32
+R8
+R6
+R7
+!s100 PdX>BCnHGWCKW:5o7CbbH0
+Eprogram_counter
+Z178 w1323247805
+R2
+Z179 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU 8-Bit Program Counter.vhd
+Z180 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU 8-Bit Program Counter.vhd
+l0
+L7
+V]KPH@g`OaCl?eO7k_m1zL0
+R5
+32
+R6
+R7
+!s100 [Qmc3E1[Y8m]WczIjkh@:1
+Aprogram_counter
+R2
+DEx4 work 15 program_counter 0 22 ]KPH@g`OaCl?eO7k_m1zL0
+l62
+L19
+V^PT869k549=zCEgcO6KYO1
+R5
+32
+R8
+R6
+R7
+!s100 IRDo;mH=5PU5nR<=KB2PZ3
+Eprogram_memory_unit
+Z181 w1322818312
+Z182 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z183 DPx4 ieee 16 std_logic_textio 0 22 8YS?iX`WD1REQG`ZRYQGB2
+R2
+Z184 DPx3 std 6 textio 0 22 m2KQDRRhmF833<<DjYdL70
+Z185 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Program Memory Unit.vhd
+Z186 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Program Memory Unit.vhd
+l0
+L13
+VKYFRW8<n^_VaK<6N@jBRU3
+R5
+32
+R6
+R7
+!s100 jY8aVC55H`;oIRT>>38Pa2
+Aprogram_memory_unit
+R182
+R183
+R2
+R184
+DEx4 work 19 program_memory_unit 0 22 KYFRW8<n^_VaK<6N@jBRU3
+l80
+L22
+V8;PabZmXo?PNSAZVMT6Vk1
+R5
+32
+Z187 Mx4 3 std 6 textio
+Z188 Mx3 4 ieee 14 std_logic_1164
+Z189 Mx2 4 ieee 16 std_logic_textio
+Z190 Mx1 4 ieee 11 numeric_std
+R6
+R7
+!s100 knz;?[zfWjIWXGZfW0gE;0
+Eramcell
+Z191 w1320592982
+R2
+Z192 8E:/Projects/ModelSim/5 - CMOS memory cell/RAM Cell.vhd
+Z193 FE:/Projects/ModelSim/5 - CMOS memory cell/RAM Cell.vhd
+l0
+L4
+V;?^IGK2aGlObW]CdabTSR1
+R5
+32
+R6
+R7
+!s100 FlgXNGWHk]Y0WmARKJDkU1
+Aramcell
+R2
+DEx4 work 7 ramcell 0 22 ;?^IGK2aGlObW]CdabTSR1
+l21
+L10
+VCBn12zj4zA_]^N`6^FkJ]0
+R5
+32
+R8
+R6
+R7
+!s100 R@DHOK]@0Kd:E04HJH:2Q2
+Ereg_file_cell_dtrig
+Z194 w1322763386
+R2
+Z195 8E:/Projects/ModelSim/5 - CMOS memory cell/Register File Cell D trigger.vhd
+Z196 FE:/Projects/ModelSim/5 - CMOS memory cell/Register File Cell D trigger.vhd
+l0
+L7
+V455N54IO2QfnWQQh;zh[O2
+R5
+32
+R6
+R7
+!s100 oL2nB;`A6PfbS`PXCNCkO0
+Areg_file_cell_dtrig
+R2
+DEx4 work 19 reg_file_cell_dtrig 0 22 455N54IO2QfnWQQh;zh[O2
+l29
+L13
+V8?:J;n=B0=4K>FbccM=L>0
+R5
+32
+R8
+R6
+R7
+!s100 dg4m`M_90Im;CcR]1Qn_n2
+Eregiter_file_4on8_bit
+Z197 w1322762233
+R2
+Z198 8E:/Projects/ModelSim/5 - CMOS memory cell/Register File 4 on 8 bit.vhd
+Z199 FE:/Projects/ModelSim/5 - CMOS memory cell/Register File 4 on 8 bit.vhd
+l0
+L15
+V4>f4S24jkU=QgCfXoKJ^g0
+R5
+32
+R6
+R7
+!s100 YBa>_eKjbjYiL>O3gBK9o2
+Aregiter_file_4on8_bit_arch
+R2
+DEx4 work 21 regiter_file_4on8_bit 0 22 4>f4S24jkU=QgCfXoKJ^g0
+l72
+L28
+VIQhXV1j2gLAD@M8676Y4O1
+R5
+32
+R8
+R6
+R7
+!s100 X:Bj4l^[022YEnD]PDQA:3
+Eregiter_file_cell
+Z200 w1322762187
+R2
+Z201 8E:/Projects/ModelSim/5 - CMOS memory cell/Register File Cell.vhd
+Z202 FE:/Projects/ModelSim/5 - CMOS memory cell/Register File Cell.vhd
+l0
+L5
+VZ;l5Wm]L6nncddKmnoj<90
+R5
+32
+R6
+R7
+!s100 zff7iklzaY`0Uc0JPKS<U1
+Aregiter_file_cell_arch
+R2
+DEx4 work 17 regiter_file_cell 0 22 Z;l5Wm]L6nncddKmnoj<90
+l20
+L12
+VS=C`=ThS2T6XCOk3F=OB?1
+R5
+32
+R8
+R6
+R7
+!s100 GbP>G?`HnZP>OPSP6f?I71
+Ereset_circuit
+Z203 w1323245744
+R2
+Z204 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Reset Circuit.vhd
+Z205 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Reset Circuit.vhd
+l0
+L5
+Vz<nV9DlQ2@h1>8FA;Z7dA0
+R5
+32
+R6
+R7
+!s100 c4SQM1h6`@z`ZWgBPzEjW1
+Areset_circuit
+R2
+DEx4 work 13 reset_circuit 0 22 z<nV9DlQ2@h1>8FA;Z7dA0
+l38
+L12
+VZB;[]gf48dOHSDBA7AETE1
+R5
+32
+R8
+R6
+R7
+!s100 Kf4j=zV]F4fNi=67XOmHf0
+Erom_connect_line
+Z206 w1321949983
+R2
+R64
+R65
+l0
+L8
+ViW>2U07XZAzmbH2kNKg:z3
+R5
+32
+R6
+R7
+!s100 j<`33LBO>S4`YP3Takn^k1
+Arom_connect_line
+R2
+DEx4 work 16 rom_connect_line 0 22 iW>2U07XZAzmbH2kNKg:z3
+l13
+L12
+VHbmO9hN[K33nnM2o5K3Nb2
+R5
+32
+R8
+R6
+R7
+!s100 O?iMLd7UjP7OYL?Vjk7_S0
+Eshifter_rotator
+Z207 w1322629887
+R2
+Z208 8E:/Projects/ModelSim/5 - CMOS memory cell/Shifter-Rotator.vhd
+Z209 FE:/Projects/ModelSim/5 - CMOS memory cell/Shifter-Rotator.vhd
+l0
+L7
+V1GTW5UE`2U=lMzcDVFNf11
+R5
+32
+R6
+R7
+!s100 EC2HUMMU5?72XiOf@=leV2
+Ashifter_rotator_arch
+R2
+DEx4 work 15 shifter_rotator 0 22 1GTW5UE`2U=lMzcDVFNf11
+l30
+L14
+VEL=jfV_>eY4HeS<5IYc?`2
+R5
+32
+R8
+R6
+R7
+!s100 VL5QcMVLJV=gdNW`49oeg0
+Eshiftreg_cell
+Z210 w1318831570
+R2
+Z211 8E:/Projects/ModelSim/5 - CMOS memory cell/Shift Reg Cell.vhd
+Z212 FE:/Projects/ModelSim/5 - CMOS memory cell/Shift Reg Cell.vhd
+l0
+L4
+V[9OYY>:=P8:eVWLHW^4Nd2
+R5
+32
+R6
+R7
+!s100 28D<SR[3R2G;JTK2zL?HG1
+Ashiftreg_cell_arch
+R2
+DEx4 work 13 shiftreg_cell 0 22 [9OYY>:=P8:eVWLHW^4Nd2
+l21
+L10
+VM_XAJ7N?_baL;5f`CjSU[3
+R5
+32
+R8
+R6
+R7
+!s100 @CWQ?<m=^m7WjXWgfAS:K3
+Eshiftregister
+Z213 w1318239002
+R2
+Z214 8E:/Projects/ModelSim/5 - CMOS memory cell/8 Bit Shift Register.vhd
+Z215 FE:/Projects/ModelSim/5 - CMOS memory cell/8 Bit Shift Register.vhd
+l0
+L4
+Vd@DV7L]Q8M5f<76JK?YV@0
+R5
+32
+R6
+R7
+!s100 9WLm]F84H0mNUjCDZOXJ^0
+Ashiftregister_arch
+R2
+DEx4 work 13 shiftregister 0 22 d@DV7L]Q8M5f<76JK?YV@0
+l28
+L12
+VB[@`9GT4Of`A1Xg4JI:Si0
+R5
+32
+R8
+R6
+R7
+!s100 K57lZ]K26jl4>MZ1aA=D@0
+Esr_latch
+Z216 w1323241892
+R2
+Z217 8E:/Projects/ModelSim/5 - CMOS memory cell/SR Latch.vhd
+Z218 FE:/Projects/ModelSim/5 - CMOS memory cell/SR Latch.vhd
+l0
+L5
+VZjc_<ON?je3j4eNd9?Oo61
+R5
+32
+R6
+R7
+!s100 RcCeGK`DWPW0DBWBaXTI[1
+Asr_ornot_latch
+R2
+Z219 DEx4 work 8 sr_latch 0 22 Zjc_<ON?je3j4eNd9?Oo61
+l18
+L12
+Vg:;MT>Ib<DhSjJA:ehKQd2
+R5
+32
+R8
+R6
+R7
+!s100 PJ34LU8hJ[jj8he?J?WbN0
+Asr_andnot_latch
+R2
+R219
+l31
+L25
+VJ:ONgSoJ1A[D4YmHAkFJ81
+R5
+32
+R8
+R6
+R7
+w1323235496
+!s100 T?mERZUQXeng;34J?YzUR3
+Esr_latch_w_enable
+Z220 w1322620402
+R2
+Z221 8E:/Projects/ModelSim/5 - CMOS memory cell/SR Latch w enable.vhd
+Z222 FE:/Projects/ModelSim/5 - CMOS memory cell/SR Latch w enable.vhd
+l0
+L6
+V;db[ngh;Bej8hg^4bNVWV2
+R5
+32
+R6
+R7
+!s100 3NAlIg6SW5XPF5TSlgQ[F0
+Asr_latch_w_enable
+R2
+DEx4 work 17 sr_latch_w_enable 0 22 ;db[ngh;Bej8hg^4bNVWV2
+l25
+L12
+VHgnS1MXXCR2j5CmoBFPD>2
+R5
+32
+R8
+R6
+R7
+!s100 UFMPJM8l1;Q<h=QGAd@4?0
+Esram_cell
+Z223 w1320594173
+R2
+Z224 8E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Cell.vhd
+Z225 FE:/Projects/ModelSim/5 - CMOS memory cell/SRAM Cell.vhd
+l0
+L4
+VP6NK2KB_8hEF;CidkzaeW3
+R5
+32
+R6
+R7
+!s100 6?L@dnblHQPAA^4[ITG_c0
+Asram_cell
+R2
+DEx4 work 9 sram_cell 0 22 P6NK2KB_8hEF;CidkzaeW3
+l21
+L10
+VZ?b3hF[Ik^eo]7gXb6G=82
+R5
+32
+R8
+R6
+R7
+!s100 _o?PClQ]kX?;:?XJ`ffLB2
+Esram_dtrig_cell
+Z226 w1323347519
+R2
+Z227 8E:/Projects/ModelSim/5 - CMOS memory cell/SRAM D trig Cell.vhd
+Z228 FE:/Projects/ModelSim/5 - CMOS memory cell/SRAM D trig Cell.vhd
+l0
+L4
+V=7:4z_@no23S5?5cMITk63
+R5
+32
+R6
+R7
+!s100 >Nb5lE8feFXa99]_60h;81
+Asram_dtrig_cell
+R2
+DEx4 work 15 sram_dtrig_cell 0 22 =7:4z_@no23S5?5cMITk63
+l32
+L10
+V;cRSSN5TG<]GXD9D;3iGH2
+R5
+32
+R8
+R6
+R7
+!s100 C^S?7CaI8mEG]I>8Q_HTc1
+Esram_nfet
+Z229 w1319013677
+R2
+Z230 8E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Transistors.vhd
+Z231 FE:/Projects/ModelSim/5 - CMOS memory cell/SRAM Transistors.vhd
+l0
+L4
+V];HXaVkZzcN8H^>>:I[eU0
+R5
+32
+R6
+R7
+!s100 leln1M6<zbH0dj=K]U5P22
+Asram_nfet_arch
+R2
+DEx4 work 9 sram_nfet 0 22 ];HXaVkZzcN8H^>>:I[eU0
+l9
+L8
+VZ[l:SEh5o4ZElQ@]NCgQ>0
+R5
+32
+R8
+R6
+R7
+!s100 GkBm7J8Y?M:LNd:7PS2VE1
+Esram_pfet
+R229
+R2
+R230
+R231
+l0
+L32
+VB?][E][h[WZSHA]zO;^=f2
+R5
+32
+R6
+R7
+!s100 zI78dnN<dXO0LfTVknD>Y0
+Asram_pfet_arch
+R2
+DEx4 work 9 sram_pfet 0 22 B?][E][h[WZSHA]zO;^=f2
+l37
+L36
+VY>[9==oU1WUnzF:=oT=5Y0
+R5
+32
+R8
+R6
+R7
+!s100 8;B9QBGUfSOeG`?__e6ZI2
+Esram_row_decoder
+Z232 w1323347730
+R2
+Z233 8E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Row Decoder.vhd
+Z234 FE:/Projects/ModelSim/5 - CMOS memory cell/SRAM Row Decoder.vhd
+l0
+L9
+VNN@f>Ymgb3Mb4@n>D_<Jf0
+R5
+32
+R6
+R7
+!s100 WcO=[d3lbA_;FbTflo=f`2
+Asram_row_decoder_arch
+R2
+DEx4 work 16 sram_row_decoder 0 22 NN@f>Ymgb3Mb4@n>D_<Jf0
+l50
+L15
+V5K]CgNXcLREjEnf6lVJ1h2
+R5
+32
+R8
+R6
+R7
+!s100 >N=hOb7U[nO];L]24RAEI1
+Esram_sense_amp
+Z235 w1319105883
+R2
+Z236 8E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Sense Amplifier.vhd
+Z237 FE:/Projects/ModelSim/5 - CMOS memory cell/SRAM Sense Amplifier.vhd
+l0
+L4
+VdRO8`kN;gnP2Zz[lWH?D13
+R5
+32
+R6
+R7
+!s100 4H`U:Hc<BjbJk?`XC4h=03
+Asram_sense_amp_arch
+R2
+DEx4 work 14 sram_sense_amp 0 22 dRO8`kN;gnP2Zz[lWH?D13
+l30
+L11
+VmEPMEa7cc>]0?9J<]k;e60
+R5
+32
+R8
+R6
+R7
+!s100 b0UW80I7];8dkFkI6n?JR1
+Esram_unit
+Z238 w1323347575
+R2
+Z239 8E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Unit.vhd
+Z240 FE:/Projects/ModelSim/5 - CMOS memory cell/SRAM Unit.vhd
+l0
+L9
+Vi@aVE=MeMLff=e25[Ie0n1
+R5
+32
+R6
+R7
+!s100 8kZ2V<:_OMN]kC83nlFKE1
+Asram_unit
+R2
+DEx4 work 9 sram_unit 0 22 i@aVE=MeMLff=e25[Ie0n1
+l64
+L18
+V=O8Fl[CWPh[Y`W2<F=__h2
+R5
+32
+R8
+R6
+R7
+!s100 F1OLiEAJCb;QPd0[[ZL]42
+Esram_write_circuit
+Z241 w1320594282
+R2
+Z242 8E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Write Circuitry Cell.vhd
+Z243 FE:/Projects/ModelSim/5 - CMOS memory cell/SRAM Write Circuitry Cell.vhd
+l0
+L4
+V7g9o`me`ln1STjN@QeRgl0
+R5
+32
+R6
+R7
+!s100 >XGBVF9kU?i]gAao<i?cm1
+Asram_write_circuit_arch
+R2
+DEx4 work 18 sram_write_circuit 0 22 7g9o`me`ln1STjN@QeRgl0
+l21
+L10
+VUE1^^omPT38AdSJU60@j`2
+R5
+32
+R8
+R6
+R7
+!s100 `eFQ[FhHhfkg<lhTmgQi>2
+Estarting_circuit
+Z244 w1323245599
+R2
+Z245 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Starting Circuit.vhd
+Z246 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Starting Circuit.vhd
+l0
+L16
+VD@cGlN^4OKJ[Rl@Bnl`Rb3
+R5
+32
+R6
+R7
+!s100 NeJRPC>G[CQdFi_jG04Z10
+Astarting_circuit
+R2
+DEx4 work 16 starting_circuit 0 22 D@cGlN^4OKJ[Rl@Bnl`Rb3
+l52
+L23
+VP;zWYo@oMlB[XD26EiT;f3
+R5
+32
+R8
+R6
+R7
+!s100 3hHfZ1FTOQJo1z9Woin;j2
+Et_trigger
+Z247 w1321340279
+R2
+Z248 8E:/Projects/ModelSim/5 - CMOS memory cell/T trigger.vhd
+Z249 FE:/Projects/ModelSim/5 - CMOS memory cell/T trigger.vhd
+l0
+L7
+V@bT[EO52WSK>oLXW`^nD;2
+R5
+32
+R6
+R7
+!s100 X9YPXk1o3EgS^6[6Pa7JI3
+At_trigger_arch
+R2
+DEx4 work 9 t_trigger 0 22 @bT[EO52WSK>oLXW`^nD;2
+l28
+L12
+VWm2e;Q3K9`>bfLWRj_=^@2
+R5
+32
+R8
+R6
+R7
+!s100 QWijVFSCRc1fP;;W_l`U82
+Etest_d_trigger
+Z250 w1323876475
+R2
+Z251 8E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger.vhd
+Z252 FE:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger.vhd
+l0
+L4
+VRoGa[<_]?HQjb^zUR<>IO2
+R5
+32
+R6
+R7
+!s100 Cj_kGSi<<^PgFj5EU5P=z3
+Atest_d_trigger
+R2
+DEx4 work 14 test_d_trigger 0 22 RoGa[<_]?HQjb^zUR<>IO2
+l21
+L10
+VU4lCPj8ieLhMo>dTGcGFF1
+R5
+32
+R8
+R6
+R7
+!s100 biIloJ58]OW:E]4dGLHgO1
+Etest_d_trigger_2
+Z253 w1323894495
+R2
+Z254 8E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger 2.vhd
+Z255 FE:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger 2.vhd
+l0
+L4
+V;`AP6?:^VdLW9Xh3ZgV_W3
+R5
+32
+R6
+R7
+!s100 9NDQgN@EUh<=9N4EIa:iT2
+Atest_d_trigger_2
+R2
+DEx4 work 16 test_d_trigger_2 0 22 ;`AP6?:^VdLW9Xh3ZgV_W3
+l19
+L9
+Vc1aTzVl`?E?3Em;;zA<^z3
+R5
+32
+R8
+R6
+R7
+!s100 bcN]9f9J@_gDSzmWN8YJC3
+Etest_d_trigger_3
+Z256 w1323894813
+R2
+Z257 8E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger 3.vhd
+Z258 FE:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger 3.vhd
+l0
+L4
+VbRXlgI3KmN1aG=XOGhhmF3
+R5
+32
+R6
+R7
+!s100 REiIg]B5aT`4_:eBZLPDT1
+Atest_d_trigger_3
+R2
+DEx4 work 16 test_d_trigger_3 0 22 bRXlgI3KmN1aG=XOGhhmF3
+l36
+L10
+VF8>n3WM7e9^k`?eZ5kCE62
+R5
+32
+R8
+R6
+R7
+!s100 D`A;]cKGAH=S>ghN:e]CT3
+Etest_inverter
+Z259 w1322745219
+R2
+Z260 8E:/Projects/ModelSim/5 - CMOS memory cell/Test inverter.vhd
+Z261 FE:/Projects/ModelSim/5 - CMOS memory cell/Test inverter.vhd
+l0
+L4
+VG>Q:iB^;c>0V;ioh2D2o@1
+R5
+32
+R6
+R7
+!s100 3m3ii9D3nRK9Cfze[3eGo3
+Atest_inverter
+R2
+DEx4 work 13 test_inverter 0 22 G>Q:iB^;c>0V;ioh2D2o@1
+l19
+L9
+VgE6gW9;JCXidL4@@1oINB2
+R5
+32
+R8
+R6
+R7
+!s100 C^6EJomVmMQXK[_SX>BW32
+Etest_program_memory_unit
+Z262 w1321944854
+R182
+R183
+R2
+R184
+Z263 8E:/Projects/ModelSim/5 - CMOS memory cell/Test MCU Program Memory Unit.vhd
+Z264 FE:/Projects/ModelSim/5 - CMOS memory cell/Test MCU Program Memory Unit.vhd
+l0
+L13
+V2dJR8I`?WIca49M3MTzH[3
+R5
+32
+R6
+R7
+!s100 :;CYnJ9mdSJbF`C18W<7I2
+Atest_program_memory_unit
+R182
+R183
+R2
+R184
+DEx4 work 24 test_program_memory_unit 0 22 2dJR8I`?WIca49M3MTzH[3
+l83
+L22
+V7;4>Vj6Dg7cJRA`9Q3g9O0
+R5
+32
+R187
+R188
+R189
+R190
+R6
+R7
+!s100 [G>YTL99O7eKc[zPJm_2;0
+Etimer_counter_addr_decoder
+Z265 w1323754829
+R2
+Z266 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Timer Counter addr decoders.vhd
+Z267 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Timer Counter addr decoders.vhd
+l0
+L6
+VfW[Hn4^aHA[<eb>i[dMBE3
+R5
+32
+R6
+R7
+!s100 QN:<GY?SDnalGKj581Jl92
+Atimer_counter_addr_decoder
+R2
+DEx4 work 26 timer_counter_addr_decoder 0 22 fW[Hn4^aHA[<eb>i[dMBE3
+l34
+L13
+V3f0QeR[[A:ScMHTPAenMk0
+R5
+32
+R8
+R6
+R7
+!s100 1dX;4?>T1aic^]bZ?;:Ae3
+Etimer_counter_decoder
+Z268 w1323681916
+R2
+R266
+R267
+l0
+L6
+VM:HBGBCKEG=7imTlfB9iS0
+R5
+32
+R6
+R7
+!s100 KWWTR=aQWcl]jndd1LB0e1
+Atimer_counter_decoder
+R2
+DEx4 work 21 timer_counter_decoder 0 22 M:HBGBCKEG=7imTlfB9iS0
+l34
+L13
+VG1FUlmUfWTeSJ:8;;eT3M3
+R5
+32
+R8
+R6
+R7
+!s100 J4jiVjVQC^ggWM3^TkogK2
+Etimer_counter_prescaler
+Z269 w1323684067
+R2
+Z270 8E:/Projects/ModelSim/5 - CMOS memory cell/Timer-Counter prescaler.vhd
+Z271 FE:/Projects/ModelSim/5 - CMOS memory cell/Timer-Counter prescaler.vhd
+l0
+L14
+VEf>]b:SKNhX0@A50]Y?Oi0
+R5
+32
+R6
+R7
+!s100 C4ODoj1z;8FCz7MPG=La43
+Atimer_counter_prescaler
+R2
+DEx4 work 23 timer_counter_prescaler 0 22 Ef>]b:SKNhX0@A50]Y?Oi0
+l41
+L22
+VzV:a0^;AC^P5F_;2ZSO<?1
+R5
+32
+R8
+R6
+R7
+!s100 o5f?d^c5<9Q@d3Bg99;iL0
+Etimer_counter_unit
+Z272 w1323760644
+R2
+Z273 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Timer Counter Unit.vhd
+Z274 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Timer Counter Unit.vhd
+l0
+L5
+VLBiW^]W_W<1EJH2SSJ<ge3
+R5
+32
+R6
+R7
+!s100 `8PO]6VIoYMOS:B@<mc?j0
+Atimer_counter
+R2
+DEx4 work 18 timer_counter_unit 0 22 LBiW^]W_W<1EJH2SSJ<ge3
+l91
+L16
+V5PXMAelnBLSZKXFU>n4<F1
+R5
+32
+R8
+R6
+R7
+!s100 RcbZ>egbHo5^kh_QFX8ZM3
+Etransmgate
+Z275 w1324284116
+R2
+Z276 8E:/Projects/ModelSim/5 - CMOS memory cell/Transmission gate.vhd
+Z277 FE:/Projects/ModelSim/5 - CMOS memory cell/Transmission gate.vhd
+l0
+L4
+VhCCMoZED4L:8d0MLKQ:OW1
+R5
+32
+R6
+R7
+!s100 ZY4YcmlLRb_P8YZnQg>CG1
+Atransmgate_arch
+R2
+DEx4 work 10 transmgate 0 22 hCCMoZED4L:8d0MLKQ:OW1
+l21
+L10
+Vjn58VzM[JO7Xh^58ZE?932
+R5
+32
+R8
+R6
+R7
+!s100 NYSU^eFFUjf1kf2zlmlzZ2
+Etri_state_buffer
+Z278 w1318839577
+R2
+Z279 8E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer.vhd
+Z280 FE:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer.vhd
+l0
+L7
+Vf6o3hdidFP2m3BY5odWaX2
+R5
+32
+R6
+R7
+!s100 0M@LjTLJO2@HbQO`zXR<73
+Atri_state_buffer_arch
+R2
+DEx4 work 16 tri_state_buffer 0 22 f6o3hdidFP2m3BY5odWaX2
+l35
+L12
+Vb7g`aUVeeX7XST;nhz1hf3
+R5
+32
+R8
+R6
+R7
+!s100 ITc]ooI32UXa?l1J49_WX2
+Etri_state_buffer_8bit
+Z281 w1318841100
+R2
+Z282 8E:/Projects/ModelSim/5 - CMOS memory cell/8-Bit Tri-state buffer.vhd
+Z283 FE:/Projects/ModelSim/5 - CMOS memory cell/8-Bit Tri-state buffer.vhd
+l0
+L7
+V]I3S55^JFHPBK7XZMYTaQ2
+R5
+32
+R6
+R7
+!s100 ;lf:6K_^zmzbE4@N`eMcL0
+Atri_state_buffer_8bit_arch
+R2
+DEx4 work 21 tri_state_buffer_8bit 0 22 ]I3S55^JFHPBK7XZMYTaQ2
+l19
+L13
+V=i`6Yb`5b]CmmKazM`3`O0
+R5
+32
+R8
+R6
+R7
+!s100 8JIUe8VZRN^aLYNnIJT5a0
+Etri_state_buffer_tg
+Z284 w1320636266
+R2
+Z285 8E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer w TG.vhd
+Z286 FE:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer w TG.vhd
+l0
+L6
+Ve]WddQkzP`ED8XX@S9BYl2
+R5
+32
+R6
+R7
+!s100 ]YJU2e5O3SQYU7hoCLm:g2
+Atri_state_buffer_tg
+R2
+DEx4 work 19 tri_state_buffer_tg 0 22 e]WddQkzP`ED8XX@S9BYl2
+l22
+L11
+Vc93?j8UFO^A7:9PV;VN@i2
+R5
+32
+R8
+R6
+R7
+!s100 46S<^mH4QBno4<MF;@7mL3
+Etri_state_buffer_tg0
+Z287 w1322198017
+R2
+Z288 8E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer w TG - 0 enable.vhd
+Z289 FE:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer w TG - 0 enable.vhd
+l0
+L7
+VF@kdie8jZbX4nlfLOfkV02
+R5
+32
+R6
+R7
+!s100 A7Pi>[Fa92LO^E0XV9hJN2
+Atri_state_buffer_tg0
+R2
+DEx4 work 20 tri_state_buffer_tg0 0 22 F@kdie8jZbX4nlfLOfkV02
+l23
+L12
+V61mQ[@J^[cRkYH>2XNMfC0
+R5
+32
+R8
+R6
+R7
+!s100 bC^3ITg][El;]idaA<0YD2
+Eucommand_unit
+Z290 w1322756014
+R182
+R183
+R2
+R184
+Z291 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU uCommand ROM.vhd
+Z292 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU uCommand ROM.vhd
+l0
+L25
+VAkM21:BQ7]ClXd8gdQMoM2
+R5
+32
+R6
+R7
+!s100 7f@IZ@YCJ4bl8[>5@4e]k2
+Aucommand_unit
+R182
+R183
+R2
+R184
+DEx4 work 13 ucommand_unit 0 22 AkM21:BQ7]ClXd8gdQMoM2
+l72
+L32
+Vakl8G9[^D8_dK1=`Plz:52
+R5
+32
+R187
+R188
+R189
+R190
+R6
+R7
+!s100 jc7ZFd5XRKU3YTg8N^FYZ3
+Ewatchdog_timer
+Z293 w1323763460
+R2
+Z294 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Watchdog timer.vhd
+Z295 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Watchdog timer.vhd
+l0
+L5
+Vb?WWOmbVUBJGj0:c@bIWf2
+R5
+32
+R6
+R7
+!s100 fEhVSEoFZ4BE=]m<nmXln2
+Awatchdog_timer
+R2
+DEx4 work 14 watchdog_timer 0 22 b?WWOmbVUBJGj0:c@bIWf2
+l79
+L16
+V83I73CNgD7FCJk=UUWh@n0
+R5
+32
+R8
+R6
+R7
+!s100 0Y7df9HmYc<Zno:JiOk2b2
+Ewd_ctrl_reg_addr_decoder
+Z296 w1323754012
+R2
+Z297 8E:/Projects/ModelSim/5 - CMOS memory cell/MCU Watchdog addr decoder.vhd
+Z298 FE:/Projects/ModelSim/5 - CMOS memory cell/MCU Watchdog addr decoder.vhd
+l0
+L6
+VfY0nh:j3AKSgEz887BL_a2
+R5
+32
+R6
+R7
+!s100 2iOZg4S`Q6YGEP@bmmn:e2
+Awd_ctrl_reg_addr_decoder
+R2
+DEx4 work 24 wd_ctrl_reg_addr_decoder 0 22 fY0nh:j3AKSgEz887BL_a2
+l33
+L12
+V32mjk9MP]eDV70f^f_1i21
+R5
+32
+R8
+R6
+R7
+!s100 1PS823A<enUSa7`>JL08C0

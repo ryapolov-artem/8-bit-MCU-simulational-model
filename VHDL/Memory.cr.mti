@@ -1,0 +1,662 @@
+{E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 3 to 8.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 3 to 8.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity decoder_3to8
+-- Compiling architecture decoder_3to8_arch of decoder_3to8
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Register File Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Register File Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity regiter_file_cell
+-- Compiling architecture regiter_file_cell_arch of regiter_file_cell
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Shifter-Rotator.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Shifter-Rotator.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity shifter_rotator
+-- Compiling architecture shifter_rotator_arch of shifter_rotator
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/ROM Connection Line.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/ROM Connection Line.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity rom_connect_line
+-- Compiling architecture rom_connect_line of rom_connect_line
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SR Latch w enable.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SR Latch w enable.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sr_latch_w_enable
+-- Compiling architecture sr_latch_w_enable of sr_latch_w_enable
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Test inverter.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Test inverter.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity test_inverter
+-- Compiling architecture test_inverter of test_inverter
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/T trigger.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/T trigger.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity t_trigger
+-- Compiling architecture t_trigger_arch of t_trigger
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU 8-Bit Program Counter.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU 8-Bit Program Counter.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity program_counter
+-- Compiling architecture program_counter of program_counter
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU PC Addr decoder.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU PC Addr decoder.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity pc_addr_decoder
+-- Compiling architecture pc_addr_decoder of pc_addr_decoder
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 4 to 1.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 4 to 1.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_4to1
+-- Compiling architecture mux_4to1_arch of mux_4to1
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-Or.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-Or.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_or2
+-- Compiling architecture basic_or2_arch of basic_or2
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Unit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sram_unit
+-- Compiling architecture sram_unit of sram_unit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Reset Circuit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Reset Circuit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity reset_circuit
+-- Compiling architecture reset_circuit of reset_circuit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port A.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port A.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity io_port_a
+-- Compiling architecture io_port_a of io_port_a
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w enable.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w enable.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity d_trigger_enable
+-- Compiling architecture d_trigger_enable_arch of d_trigger_enable
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Datapath unit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Datapath unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity datapath_unit
+-- Compiling architecture datapath_unit of datapath_unit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-And.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-And.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_and2
+-- Compiling architecture basic_and2_arch of basic_and2
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-And.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-And.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_and3
+-- Compiling architecture basic_and3_arch of basic_and3
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Timer Counter Unit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Timer Counter Unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity timer_counter_unit
+-- Compiling architecture timer_counter of timer_counter_unit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Control Unit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Control Unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity control_unit
+-- Compiling architecture control_unit of control_unit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Test phase generator with reset enable.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Test phase generator with reset enable.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity phase_w_res_enalbe
+-- Compiling architecture phase_w_res_enalbe of phase_w_res_enalbe
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-And.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-And.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_and4
+-- Compiling architecture basic_and4_arch of basic_and4
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port A registers addr decoders.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port A registers addr decoders.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity port_a_regs_decoders
+-- Compiling architecture port_a_regs_decoders of port_a_regs_decoders
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8bit 2 to 1.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8bit 2 to 1.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_8bit_2to1
+-- Compiling architecture mux_8bit_2to1_arch of mux_8bit_2to1
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer w TG.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer w TG.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity tri_state_buffer_tg
+-- Compiling architecture tri_state_buffer_tg of tri_state_buffer_tg
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-Or-Not.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-Or-Not.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_ornot3
+-- Compiling architecture basic_ornot3_arch of basic_ornot3
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger 2.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger 2.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity test_d_trigger_2
+-- Compiling architecture test_d_trigger_2 of test_d_trigger_2
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/ALU Unit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/ALU Unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity alu_unit
+-- Compiling architecture alu_unit_arch of alu_unit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/ALU Carry Extender.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/ALU Carry Extender.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity alu_carry_extender
+-- Compiling architecture alu_carry_extender_arch of alu_carry_extender
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/8 Bit Shift Register.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/8 Bit Shift Register.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity shiftregister
+-- Compiling architecture shiftregister_arch of shiftregister
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Binary Up-Down Counter w parallel load.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Binary Up-Down Counter w parallel load.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity binary_up_down_counter_w_pload
+-- Compiling architecture binary_up_down_counter_w_pload_arch of binary_up_down_counter_w_pload
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic XOR.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic XOR.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_xor
+-- Compiling architecture basic_xor_arch of basic_xor
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Register File 4 on 8 bit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Register File 4 on 8 bit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity regiter_file_4on8_bit
+-- Compiling architecture regiter_file_4on8_bit_arch of regiter_file_4on8_bit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Non Invert Buffer.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Non Invert Buffer.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity non_inv_buffer
+-- Compiling architecture non_inv_buffer of non_inv_buffer
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Program Memory Unit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Program Memory Unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package textio
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package numeric_std
+-- Compiling entity program_memory_unit
+-- Compiling architecture program_memory_unit of program_memory_unit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/D Latch w enable.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/D Latch w enable.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity d_latch_w_enable
+-- Compiling architecture d_latch_w_enable of d_latch_w_enable
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Watchdog timer.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Watchdog timer.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity watchdog_timer
+-- Compiling architecture watchdog_timer of watchdog_timer
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Watchdog addr decoder.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Watchdog addr decoder.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity wd_ctrl_reg_addr_decoder
+-- Compiling architecture wd_ctrl_reg_addr_decoder of wd_ctrl_reg_addr_decoder
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU uCommand ROM.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU uCommand ROM.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package textio
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package numeric_std
+-- Compiling entity ucommand_unit
+-- Compiling architecture ucommand_unit of ucommand_unit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Transistors.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Transistors.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sram_nfet
+-- Compiling architecture sram_nfet_arch of sram_nfet
+-- Compiling entity sram_pfet
+-- Compiling architecture sram_pfet_arch of sram_pfet
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SR Latch.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SR Latch.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sr_latch
+-- Compiling architecture sr_ornot_latch of sr_latch
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8 to 1 (built with 6 mux 2 to 1).vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8 to 1 (built with 6 mux 2 to 1).vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_8to1_2
+-- Compiling architecture mux_8to1_2_arch of mux_8to1_2
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Timer Counter addr decoders.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Timer Counter addr decoders.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity timer_counter_addr_decoder
+-- Compiling architecture timer_counter_addr_decoder of timer_counter_addr_decoder
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Sense Amplifier.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Sense Amplifier.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sram_sense_amp
+-- Compiling architecture sram_sense_amp_arch of sram_sense_amp
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-And-Not.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-And-Not.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_andnot3
+-- Compiling architecture basic_andnot3_arch of basic_andnot3
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Write Circuitry Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Write Circuitry Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sram_write_circuit
+-- Compiling architecture sram_write_circuit_arch of sram_write_circuit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Half Adder-Substractor Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Half Adder-Substractor Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity half_adder_substractor_cell
+-- Compiling architecture half_adder_substractor_cell_arch of half_adder_substractor_cell
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/inverter v2.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/inverter v2.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity inverter
+-- Compiling architecture invert_arch of inverter
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Delay counter.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Delay counter.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity delay_counter
+-- Compiling architecture delay_counter of delay_counter
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w set & reset.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w set & reset.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity d_trigger_set_res
+-- Compiling architecture d_trigger_set_res_arch of d_trigger_set_res
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/8-Bit Tri-state buffer.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/8-Bit Tri-state buffer.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity tri_state_buffer_8bit
+-- Compiling architecture tri_state_buffer_8bit_arch of tri_state_buffer_8bit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Unit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mcu
+-- Compiling architecture mcu_arch of mcu
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Phase Counter.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Phase Counter.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity phase_counter
+-- Compiling architecture phase_counter of phase_counter
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Test CMOS Transistors v5.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Test CMOS Transistors v5.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity nfet_v5
+-- Compiling architecture nfet_v5 of nfet_v5
+-- Compiling entity pfet_v5
+-- Compiling architecture pfet_v5 of pfet_v5
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-Or-Not.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-Or-Not.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_ornot4
+-- Compiling architecture basic_ornot4_arch of basic_ornot4
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Full Adder Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Full Adder Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity full_adder_cell
+-- Compiling architecture full_adder_cell_arch of full_adder_cell
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/ALU Arithmetic Extender.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/ALU Arithmetic Extender.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity alu_arithmetic_extender
+-- Compiling architecture alu_arithmetic_extender_arch of alu_arithmetic_extender
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Starting Circuit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Starting Circuit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity starting_circuit
+-- Compiling architecture starting_circuit of starting_circuit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Shift Reg Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Shift Reg Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity shiftreg_cell
+-- Compiling architecture shiftreg_cell_arch of shiftreg_cell
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port B.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port B.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity io_port_b
+-- Compiling architecture io_port_b of io_port_b
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8 to 1.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 8 to 1.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_8to1
+-- Compiling architecture mux_8to1_arch of mux_8to1
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/CMOS Transistors v. 5.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/CMOS Transistors v. 5.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity nfet
+-- Compiling architecture nfet of nfet
+-- Compiling entity pfet
+-- Compiling architecture pfet of pfet
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Johnson Counter Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Johnson Counter Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity johncount_cell
+-- Compiling architecture johncount_cell_arch of johncount_cell
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/D Latch.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/D Latch.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity d_latch
+-- Compiling architecture d_ornot_latch of d_latch
+-- Compiling architecture d_andnot_latch of d_latch
+-- Loading entity d_latch
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port B registers addr decoders.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Port B registers addr decoders.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity port_b_regs_decoders
+-- Compiling architecture port_b_regs_decoders of port_b_regs_decoders
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Row Decoder.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Row Decoder.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sram_row_decoder
+-- Compiling architecture sram_row_decoder_arch of sram_row_decoder
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w enable and reset.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w enable and reset.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity d_trigger_reset_enable
+-- Compiling architecture d_trigger_reset_enable of d_trigger_reset_enable
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Floating Gate FET for ROM.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Floating Gate FET for ROM.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity floating_gate_fet
+-- Compiling architecture floating_gate_fet of floating_gate_fet
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger 3.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger 3.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity test_d_trigger_3
+-- Compiling architecture test_d_trigger_3 of test_d_trigger_3
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Instruction Register.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/MCU Instruction Register.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity instruction_register
+-- Compiling architecture instruction_register of instruction_register
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer w TG - 0 enable.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer w TG - 0 enable.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity tri_state_buffer_tg0
+-- Compiling architecture tri_state_buffer_tg0 of tri_state_buffer_tg0
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w reset.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger w reset.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity d_trigger_res
+-- Compiling architecture d_trigger_res_arch of d_trigger_res
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 2 to 4.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 2 to 4.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity decoder_2to4
+-- Compiling architecture decoder_2to4_arch of decoder_2to4
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 2 to 1.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Mux 2 to 1.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity mux_2to1
+-- Compiling architecture mux_2to1_arch of mux_2to1
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 2 to 4 transm gates.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Decoder 2 to 4 transm gates.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity decoder_2to4_tg
+-- Compiling architecture decoder_2to4_tg_arch of decoder_2to4_tg
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-Or-Not.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-Or-Not.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_ornot2
+-- Compiling architecture basic_ornot2_arch of basic_ornot2
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Binary Up Counter.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Binary Up Counter.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity binary_up_counter
+-- Compiling architecture binary_up_counter_arch of binary_up_counter
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-And-Not.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 2-And-Not.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_andnot2
+-- Compiling architecture basic_andnot2_arch of basic_andnot2
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Transmission gate.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Transmission gate.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity transmgate
+-- Compiling architecture transmgate_arch of transmgate
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-Or.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-Or.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_or4
+-- Compiling architecture basic_or4_arch of basic_or4
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-And-Not.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 4-And-Not.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_andnot4
+-- Compiling architecture basic_andnot4_arch of basic_andnot4
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM D trig Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM D trig Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sram_dtrig_cell
+-- Compiling architecture sram_dtrig_cell of sram_dtrig_cell
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Register File Cell D trigger.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Register File Cell D trigger.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity reg_file_cell_dtrig
+-- Compiling architecture reg_file_cell_dtrig of reg_file_cell_dtrig
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/D-trigger.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity d_trigger
+-- Compiling architecture d_trigger_arch of d_trigger
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Test MCU Program Memory Unit.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Test MCU Program Memory Unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package textio
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package numeric_std
+-- Compiling entity test_program_memory_unit
+-- Compiling architecture test_program_memory_unit of test_program_memory_unit
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Tri-state buffer.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity tri_state_buffer
+-- Compiling architecture tri_state_buffer_arch of tri_state_buffer
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/ALU Logic Extender.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/ALU Logic Extender.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity alu_logic_extender
+-- Compiling architecture alu_logic_extender_arch of alu_logic_extender
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Timer-Counter prescaler.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Timer-Counter prescaler.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity timer_counter_prescaler
+-- Compiling architecture timer_counter_prescaler of timer_counter_prescaler
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Test D Trigger.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity test_d_trigger
+-- Compiling architecture test_d_trigger of test_d_trigger
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Half Adder Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Half Adder Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity half_adder_cell
+-- Compiling architecture half_adder_cell_arch of half_adder_cell
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-Or.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/Basic 3-Or.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity basic_or3
+-- Compiling architecture basic_or3_arch of basic_or3
+
+} {} {}} {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Cell.vhd} {1 {vcom -work work -2002 -explicit {E:/Projects/ModelSim/5 - CMOS memory cell/SRAM Cell.vhd}
+Model Technology ModelSim ALTERA vcom 6.5b Compiler 2009.10 Oct  1 2009
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity sram_cell
+-- Compiling architecture sram_cell of sram_cell
+
+} {} {}}

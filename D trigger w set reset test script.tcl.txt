@@ -1,0 +1,31 @@
+#D триггер с установкой и сбросом, активный уровень сигналов Set и Reset - 1
+# vsim work.d_trigger_set_res 
+
+add wave sim:/d_trigger_set_res/*
+force -freeze sim:/d_trigger_set_res/vdd 1 0
+force -freeze sim:/d_trigger_set_res/vss 0 0
+force -freeze sim:/d_trigger_set_res/reset 0 0
+force -freeze sim:/d_trigger_set_res/set 0 0
+force -freeze sim:/d_trigger_set_res/d_in 0 0
+force -freeze sim:/d_trigger_set_res/clk_in 0 0
+run
+force -freeze sim:/d_trigger_set_res/clk_in 1 0
+run
+force -freeze sim:/d_trigger_set_res/clk_in 0 0
+run
+force -freeze sim:/d_trigger_set_res/d_in 1 0
+run
+force -freeze sim:/d_trigger_set_res/clk_in 1 0
+run
+force -freeze sim:/d_trigger_set_res/clk_in 0 0
+run
+force -freeze sim:/d_trigger_set_res/d_in 0 0
+run
+force -freeze sim:/d_trigger_set_res/reset 1 0
+run
+force -freeze sim:/d_trigger_set_res/reset 0 0
+run
+force -freeze sim:/d_trigger_set_res/set 1 0
+run
+force -freeze sim:/d_trigger_set_res/set 0 0
+run

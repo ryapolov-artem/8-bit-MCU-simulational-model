@@ -1,0 +1,258 @@
+
+# ------------------------------------Step 500 ns Cycle repeats every 4000 ns
+#-------------------------------------Start cycle – start at 0 ns
+vsim work.d_trigger_set_res
+
+add wave sim:/d_trigger_set_res/*
+
+restart -f
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 0 0
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/set 0 0
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/vdd 1 0
+force sim:/d_trigger_set_res/vss 0 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+force sim:/d_trigger_set_res/vss 1 200ps
+force sim:/d_trigger_set_res/vss 0 300ps
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/set 1 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+#-------------------------------------First cycle – start at 500 ns
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 0 0
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/set 0 0
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/vdd 1 0
+force sim:/d_trigger_set_res/vss 0 0
+force sim:/d_trigger_set_res/vss 1 200ps
+force sim:/d_trigger_set_res/vss 0 300ps
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/set 1 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+#-------------------------------------Second cycle – start at 500 ns
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 0 0
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/set 0 0
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/vdd 1 0
+force sim:/d_trigger_set_res/vss 0 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 1 0
+force sim:/d_trigger_set_res/vss 1 200ps
+force sim:/d_trigger_set_res/vss 0 300ps
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/set 1 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+#-------------------------------------Third cycle – start at 1000 ns
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 0 0
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/set 0 0
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/vdd 1 0
+force sim:/d_trigger_set_res/vss 0 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+force sim:/d_trigger_set_res/vss 1 200ps
+force sim:/d_trigger_set_res/vss 0 300ps
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/set 1 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+#-------------------------------------Fourth cycle – start at 1500 ns
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 0 0
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/set 0 0
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/vdd 1 0
+force sim:/d_trigger_set_res/vss 0 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/vss 1 200ps
+force sim:/d_trigger_set_res/vss 0 300ps
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/set 1 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+#-------------------------------------Fifth cycle – start at 2000 ns
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 0 0
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/set 0 0
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/vdd 1 0
+force sim:/d_trigger_set_res/vss 0 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+force sim:/d_trigger_set_res/vss 1 200ps
+force sim:/d_trigger_set_res/vss 0 300ps
+run
+
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/set 1 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+#-------------------------------------6th cycle – start at 2500 ns
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 0 0
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/set 0 0
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/vdd 1 0
+force sim:/d_trigger_set_res/vss 0 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/set 1 0
+force sim:/d_trigger_set_res/vss 1 200ps
+force sim:/d_trigger_set_res/vss 0 300ps
+
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+
+
+
+

@@ -1,0 +1,140 @@
+vsim work.d_trigger2
+
+add wave sim:/d_trigger2/*
+
+restart -f
+
+force sim:/d_trigger2/vdd 1 0
+force sim:/d_trigger2/vss 0 0
+force sim:/d_trigger2/d_in 1 0
+
+force sim:/d_trigger2/clk_in 0 0
+run
+
+force sim:/d_trigger2/clk_in 1 0
+run
+
+force sim:/d_trigger2/clk_in 0 0
+force sim:/d_trigger2/vss 1 200ps
+force sim:/d_trigger2/vss 0 300ps
+run
+
+force sim:/d_trigger2/d_in 0 0
+run
+
+force sim:/d_trigger2/clk_in 1 0
+run
+
+force sim:/d_trigger2/clk_in 0 0
+run
+
+force sim:/d_trigger2/d_in 1 0
+run
+
+-----------------------------
+
+vsim work.d_trigger2
+
+add wave sim:/d_trigger2/*
+
+restart -f
+force sim:/d_trigger2/vdd 1 0
+force sim:/d_trigger2/vss 0 0
+force sim:/d_trigger2/d_in 1 0
+
+force sim:/d_trigger2/clk_in 0 0
+run
+
+force sim:/d_trigger2/clk_in 1 0
+run
+
+force sim:/d_trigger2/clk_in 0 0
+run
+
+force sim:/d_trigger2/d_in 0 0
+run
+
+force sim:/d_trigger2/clk_in 1 0
+run
+
+force sim:/d_trigger2/clk_in 0 0
+run
+
+force sim:/d_trigger2/d_in 1 0
+run
+
+-----------------------------
+//D-триггер со сбросом
+
+vsim work.d_trigger_res
+
+add wave sim:/d_trigger_res/*
+
+restart -f
+force sim:/d_trigger_res/reset 0 0
+force sim:/d_trigger_res/vdd 1 0
+force sim:/d_trigger_res/vss 0 0
+force sim:/d_trigger_res/d_in 1 0
+
+force sim:/d_trigger_res/clk_in 0 0
+run
+
+force sim:/d_trigger_res/clk_in 1 0
+run
+
+force sim:/d_trigger_res/clk_in 0 0
+run
+
+force sim:/d_trigger_res/d_in 0 0
+run
+
+force sim:/d_trigger_res/clk_in 1 0
+run
+
+force sim:/d_trigger_res/clk_in 0 0
+run
+
+force sim:/d_trigger_res/d_in 1 0
+run
+
+---------------------------------
+D-триггер с установкой и сбросом
+
+vsim work.d_trigger_set_res
+
+add wave sim:/d_trigger_set_res/*
+
+restart -f
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 0 0
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/set 0 0
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/vdd 1 0
+force sim:/d_trigger_set_res/vss 0 0
+
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+force sim:/d_trigger_set_res/d_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 1 0
+run
+
+force sim:/d_trigger_set_res/clk_in 0 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run
+
+force sim:/d_trigger_set_res/reset 0 0
+force sim:/d_trigger_set_res/set 1 0
+run
+
+force sim:/d_trigger_set_res/reset 1 0
+run

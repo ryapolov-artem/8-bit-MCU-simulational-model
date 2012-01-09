@@ -1,0 +1,38 @@
+# Мультиплексор, составленный из КМОП ключей и 3 инверторов
+vsim work.mux_8to1
+add wave sim:/mux_8to1/*
+force -freeze sim:/mux_8to1/vss 0 0
+force -freeze sim:/mux_8to1/vdd 1 0
+force -freeze sim:/mux_8to1/select_input(0) 0 0, 1 {250 ps} -r 500
+force -freeze sim:/mux_8to1/select_input(1) 0 0, 1 {500 ps} -r 1000
+force -freeze sim:/mux_8to1/select_input(2) 0 0, 1 {1000 ps} -r 2000
+force -freeze sim:/mux_8to1/paral_input(0) 1 0, 0 {5 ps} -r 11
+force -freeze sim:/mux_8to1/paral_input(1) 1 0, 0 {10 ps} -r 20
+force -freeze sim:/mux_8to1/paral_input(2) 1 0, 0 {15 ps} -r 30
+force -freeze sim:/mux_8to1/paral_input(3) 1 0, 0 {20 ps} -r 40
+force -freeze sim:/mux_8to1/paral_input(4) 1 0, 0 {25 ps} -r 50
+force -freeze sim:/mux_8to1/paral_input(5) 1 0, 0 {30 ps} -r 60
+force -freeze sim:/mux_8to1/paral_input(6) 1 0, 0 {35 ps} -r 70
+force -freeze sim:/mux_8to1/paral_input(7) 1 0, 0 {43 ps} -r 87
+run
+run
+
+
+# Мультиплексор, составленный из мултьтиплексоров на 2 входа и одни выход
+vsim work.mux_8to1_2
+add wave sim:/mux_8to1_2/*
+force -freeze sim:/mux_8to1_2/vss 0 0
+force -freeze sim:/mux_8to1_2/vdd 1 0
+force -freeze sim:/mux_8to1_2/select_input(0) 0 0, 1 {250 ps} -r 500
+force -freeze sim:/mux_8to1_2/select_input(1) 0 0, 1 {500 ps} -r 1000
+force -freeze sim:/mux_8to1_2/select_input(2) 0 0, 1 {1000 ps} -r 2000
+force -freeze sim:/mux_8to1_2/paral_input(0) 1 0, 0 {5 ps} -r 11
+force -freeze sim:/mux_8to1_2/paral_input(1) 1 0, 0 {10 ps} -r 20
+force -freeze sim:/mux_8to1_2/paral_input(2) 1 0, 0 {15 ps} -r 30
+force -freeze sim:/mux_8to1_2/paral_input(3) 1 0, 0 {20 ps} -r 40
+force -freeze sim:/mux_8to1_2/paral_input(4) 1 0, 0 {25 ps} -r 50
+force -freeze sim:/mux_8to1_2/paral_input(5) 1 0, 0 {30 ps} -r 60
+force -freeze sim:/mux_8to1_2/paral_input(6) 1 0, 0 {35 ps} -r 70
+force -freeze sim:/mux_8to1_2/paral_input(7) 1 0, 0 {43 ps} -r 87
+run
+run

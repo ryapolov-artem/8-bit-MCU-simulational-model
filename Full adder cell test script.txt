@@ -1,0 +1,12 @@
+# Полный сумматор
+
+add wave sim:/full_adder_cell/*
+force -freeze sim:/full_adder_cell/vdd 1 0
+force -freeze sim:/full_adder_cell/vss 0 0
+force -freeze sim:/full_adder_cell/in_carry 0 0, 1 {500 ps} -r 1000
+force -freeze sim:/full_adder_cell/in_b 0 0, 1 {1000 ps} -r 2000
+force -freeze sim:/full_adder_cell/in_a 0 0, 1 {2000 ps} -r 4000
+run
+run
+run
+run

@@ -1,0 +1,25 @@
+vsim work.d_trigger
+# vsim work.d_trigger 
+# Loading std.standard
+# Loading ieee.std_logic_1164(body)
+# Loading work.d_trigger(d_trigger_arch)
+# Loading work.transmgate(transmgate_arch)
+# Loading work.pfet(pfet)
+# Loading work.nfet(nfet)
+# Loading work.inverter(invert_arch)
+add wave sim:/d_trigger/*
+force -freeze sim:/d_trigger/vss 0 0
+force -freeze sim:/d_trigger/vdd 1 0
+force -freeze sim:/d_trigger/clk_in 0 0
+force -freeze sim:/d_trigger/d_in 0 0
+run
+force -freeze sim:/d_trigger/clk_in 1 0
+run
+force -freeze sim:/d_trigger/d_in 1 0
+run
+force -freeze sim:/d_trigger/clk_in 0 0
+run
+force -freeze sim:/d_trigger/d_in 0 0
+run
+force -freeze sim:/d_trigger/clk_in 1 0
+run

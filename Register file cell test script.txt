@@ -1,0 +1,17 @@
+# 8-битный регистр из регистрового файла
+
+
+add wave sim:/regiter_file_cell/*
+force -freeze sim:/regiter_file_cell/vdd 1 0
+force -freeze sim:/regiter_file_cell/vss 0 0
+force -freeze sim:/regiter_file_cell/clk_in 0 0, 1 {500 ps} -r 1000
+force -freeze sim:/regiter_file_cell/paral_input(7) 1 0, 0 {32000 ps} -r 64000
+force -freeze sim:/regiter_file_cell/paral_input(6) 1 0, 0 {16000 ps} -r 32000
+force -freeze sim:/regiter_file_cell/paral_input(5) 1 0, 0 {8000 ps} -r 16000
+force -freeze sim:/regiter_file_cell/paral_input(4) 1 0, 0 {4000 ps} -r 8000
+force -freeze sim:/regiter_file_cell/paral_input(3) 1 0, 0 {2000 ps} -r 4000
+force -freeze sim:/regiter_file_cell/paral_input(2) 1 0, 0 {1000 ps} -r 2000
+force -freeze sim:/regiter_file_cell/paral_input(1) 1 0, 0 {500 ps} -r 1000
+force -freeze sim:/regiter_file_cell/paral_input(0) 1 0, 0 {250 ps} -r 500
+force -freeze sim:/regiter_file_cell/load 1 0
+run
